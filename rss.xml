@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nop Jiarathanakul]]></title><description><![CDATA[Nop Jiarathanakul online portfolio. I love making things, especially beautiful 3D applications. I like WebGL, shaders, three.js, typography, and indie rock. My background is in computer graphics, games, and animation.]]></description><link>https://www.iamnop.com/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 31 Aug 2018 07:06:52 GMT</lastBuildDate><item><title><![CDATA[New Website!]]></title><description><![CDATA[This post marks the launch of a new long overdue website! I released my current website at  https://www.iamnop.com/  a long time ago, but it…]]></description><link>https://www.iamnop.com//posts/2018-08-30-new-website</link><guid isPermaLink="false">https://www.iamnop.com//posts/2018-08-30-new-website</guid><pubDate>Thu, 30 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This post marks the launch of a new long overdue website!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nop Jiarathanakul]]></title><description><![CDATA[Nop Jiarathanakul online portfolio. I love making things, especially beautiful 3D applications. I like WebGL, shaders, three.js, typography, and indie rock. My background is in computer graphics, games, and animation.]]></description><link>https://www.iamnop.com/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 31 Aug 2018 08:12:24 GMT</lastBuildDate><item><title><![CDATA[New Website!]]></title><description><![CDATA[This post marks the launch of a new long overdue website! I released my current website at  https://www.iamnop.com/  a long time ago, but it…]]></description><link>https://www.iamnop.com//posts/2018-08-30-new-website</link><guid isPermaLink="false">https://www.iamnop.com//posts/2018-08-30-new-website</guid><pubDate>Thu, 30 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This post marks the launch of a new long overdue website!&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -64,7 +64,158 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;3D Tools:&lt;/strong&gt; Maya, MEL, Python, Unity&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Design:&lt;/strong&gt; Photoshop, Illustrator, InDesign&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Download my &lt;a href=&quot;https://www.iamnop.com/jiarathanakul.pdf&quot;&gt;resume&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[WebGL GPU Particles]]></title><description><![CDATA[Weekend project I started about a month ago, a WebGL GPU particle simulator, simulating 1 million particles at 60 fps! Live code:  http…]]></description><link>https://www.iamnop.com//posts/2014-06-08-webgl-gpu-particles</link><guid isPermaLink="false">https://www.iamnop.com//posts/2014-06-08-webgl-gpu-particles</guid><pubDate>Sun, 08 Jun 2014 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Weekend project I started about a month ago, a WebGL GPU particle simulator, simulating 1 million particles at 60 fps!&lt;/p&gt;
+&lt;p&gt;Download my &lt;a href=&quot;https://www.iamnop.com/jiarathanakul.pdf&quot;&gt;resume&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[9 Satra]]></title><description><![CDATA[Caught the very last showing of  9 Satra  yesterday, and oh my god am I glad I did. This movie exceeded all my expectations. Action-packed…]]></description><link>https://www.iamnop.com//posts/2018-02-07-9-satra</link><guid isPermaLink="false">https://www.iamnop.com//posts/2018-02-07-9-satra</guid><pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/poster-1fa81465963f4a4ef885ade4463afadb-0f8ff.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 600px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 144.42877291960508%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQL/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAHNRY4vMOxC2rD6KYJEf//EAB0QAAICAQUAAAAAAAAAAAAAAAECAAMREBITIUH/2gAIAQEAAQUCUCemKhK8Qww7pNagtXHxuhY6f//EABgRAAIDAAAAAAAAAAAAAAAAAAASARAR/9oACAEDAQE/AUMHmv/EABYRAQEBAAAAAAAAAAAAAAAAABASAf/aAAgBAgEBPwGicP/EABwQAAEDBQAAAAAAAAAAAAAAABEAARASICExQf/aAAgBAQAGPwKWAWINTlPwrZs//8QAGxABAAMBAQEBAAAAAAAAAAAAAQARMSFBUYH/2gAIAQEAAT8hpq+eRt1wh7zpE1q95kGfDW/T8mVcgqn7ohBW/UMICqq+1BRiNY7P/9oADAMBAAIAAwAAABDYPE//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oACAEDAQE/EL0pEZMQ3Wf/xAAYEQEBAQEBAAAAAAAAAAAAAAABABEhMf/aAAgBAgEBPxBPlu22q9gv/8QAHhABAQEAAgMAAwAAAAAAAAAAAREAITFRYXFBgeH/2gAIAQEAAT8QIe0WHhPeoJypTg1bNDh3U7MJYe3+aaoKbW8nhpdsJ3lSdEd3zXljCh937xBxBBFwjn8XCAifcZFd/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;9 Satra&quot;
+        title=&quot;&quot;
+        src=&quot;/static/poster-1fa81465963f4a4ef885ade4463afadb-976d1.jpg&quot;
+        srcset=&quot;/static/poster-1fa81465963f4a4ef885ade4463afadb-87020.jpg 150w,
+/static/poster-1fa81465963f4a4ef885ade4463afadb-31837.jpg 300w,
+/static/poster-1fa81465963f4a4ef885ade4463afadb-976d1.jpg 600w,
+/static/poster-1fa81465963f4a4ef885ade4463afadb-0f8ff.jpg 709w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Caught the very last showing of &lt;a href=&quot;http://www.9satramovie.com/&quot;&gt;9 Satra&lt;/a&gt; yesterday, and oh my god am I glad I did. This movie exceeded all my expectations.&lt;/p&gt;
+&lt;p&gt;Action-packed fast-paced storytelling that constantly has you at the edge of your seat. Lovable fully developed side characters with their own legitimate backstory. A rich and vast world that is practically a fantasy version of Thailand. Halfway in as heroes embark on the adventure, you get a sense of excitement that it’ll be so much fun you don’t want it to end!&lt;/p&gt;
+&lt;p&gt;All the while there was an undeniable Thai-ness, but was not cheesy or oversold, as it was part of the story and supported the story. For example, the iconic Koh Tapu was our hero’s home, and the tradition of Nang Talung was used for the 2D montage. Both are from the South, the birthplace of the ancient martial art form of Muay Thai Chaiya (not to be confused with the modern sport.)&lt;/p&gt;
+&lt;p&gt;Which brings us to the best part, the Muay Thai, which was paid full respect in this movie. All the movements, the forms, fighting style throughout the movie were right on point! Being a huge martial arts fan and having practiced some Muay Chaiya myself, seeing this sacred art form come to life in a fantasy animation film was a dream come true. All those beautiful forms that I learnt by their (epic!) names being used in full force by a superhero along with his lovable friends to defeat mythological-level bad guy in fantasy-Thai-land is just &lt;em&gt;PURE AWESOME&lt;/em&gt;. All this really resonated personally, and is the real reason I loved the movie so much.&lt;/p&gt;
+&lt;p&gt;Yes the animation could be smoother, shading could be better, and they could use more motion blur, but if you can overlook the technical flaws, I’d give everything else a 10/10!&lt;/p&gt;
+&lt;p&gt;Super impressed. Loved loved loved it. I am so proud to be born Thai. ❤️🇹🇭&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Lovers in a Dangerous Spacetime]]></title><description><![CDATA[What a wonderful little game! One-of-a-kind game design, clever levels, fun music, and adorable trippy art that reminds you of Powerpuff…]]></description><link>https://www.iamnop.com//posts/2017-12-22-lovers-in-a-dangerous-spacetime</link><guid isPermaLink="false">https://www.iamnop.com//posts/2017-12-22-lovers-in-a-dangerous-spacetime</guid><pubDate>Fri, 22 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/lovers-0ef04201518c59859d5d114a131c8fff-ad3e3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 600px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/2gAMAwEAAhADEAAAAZbN7shYGj//xAAaEAEAAgMBAAAAAAAAAAAAAAABAhEAAxIh/9oACAEBAAEFAjZQ+rRkYnJJqhP/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQMC/9oACAEDAQE/AVMUMn//xAAYEQADAQEAAAAAAAAAAAAAAAAAARECMf/aAAgBAgEBPwF18Jo//8QAGRABAQADAQAAAAAAAAAAAAAAAQAQETEh/9oACAEBAAY/AuFwL3dvApf/xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhMUFRkf/aAAgBAQABPyEQ7S+2Dh5gSqGbI2AxXyAIKnqf/9oADAMBAAIAAwAAABB87//EABgRAQEAAwAAAAAAAAAAAAAAAAEAESGx/9oACAEDAQE/ED0yzKdv/8QAFhEBAQEAAAAAAAAAAAAAAAAAABFh/9oACAECAQE/EIjR/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARITFBcf/aAAgBAQABPxCya3cJcrIU8D8lfjdMY2tb9dmiCnKEvQQVG7P/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;Lovers&quot;
+        title=&quot;&quot;
+        src=&quot;/static/lovers-0ef04201518c59859d5d114a131c8fff-976d1.jpg&quot;
+        srcset=&quot;/static/lovers-0ef04201518c59859d5d114a131c8fff-87020.jpg 150w,
+/static/lovers-0ef04201518c59859d5d114a131c8fff-31837.jpg 300w,
+/static/lovers-0ef04201518c59859d5d114a131c8fff-976d1.jpg 600w,
+/static/lovers-0ef04201518c59859d5d114a131c8fff-fa1a8.jpg 900w,
+/static/lovers-0ef04201518c59859d5d114a131c8fff-5a104.jpg 1200w,
+/static/lovers-0ef04201518c59859d5d114a131c8fff-ad3e3.jpg 1280w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;What a wonderful little game! One-of-a-kind game design, clever levels, fun music, and adorable trippy art that reminds you of Powerpuff Girls!&lt;/p&gt;
+&lt;p&gt;It was the best use of the co-op format that I’ve ever seen. You &lt;em&gt;really&lt;/em&gt; had to work together as a &lt;em&gt;team&lt;/em&gt; to succeed. Played this with my girlfriend and her brother and we had an absolute blast! Never had more fun playing a co-op game (and I grew up playing co-op games.) Highly recommended. Out on Nintendo Switch now. Grab a buddy or two and get this game. No wonder it’s a solid 10/10 on Steam!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why I'm Not Playing Pokémon Go]]></title><description><![CDATA[People have been asking why I’m not playing  Pokémon Go . And after a few discussions like this, I decided to write a little post. The core…]]></description><link>https://www.iamnop.com//posts/2016-07-16-why-im-not-playing-pokmon-go</link><guid isPermaLink="false">https://www.iamnop.com//posts/2016-07-16-why-im-not-playing-pokmon-go</guid><pubDate>Sat, 16 Jul 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/pokemon-sun-moon-a7e95fc8434a0c22bb02f454f015a657-9aea7.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 600px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 70.78125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB6nzaY42J/8QAGxABAAICAwAAAAAAAAAAAAAAAgEDABESEyH/2gAIAQEAAQUCvTm+XvAvLBIv68B4n//EABURAQEAAAAAAAAAAAAAAAAAABAx/9oACAEDAQE/Aaf/xAAWEQADAAAAAAAAAAAAAAAAAAABECH/2gAIAQIBAT8BMX//xAAaEAACAwEBAAAAAAAAAAAAAAACEQABEBIx/9oACAEBAAY/AhEDU5v3GVtxvP/EABkQAAMBAQEAAAAAAAAAAAAAAAABESFBMf/aAAgBAQABPyF2JV7BTUqdL7rjh0OHgmvRmQf/2gAMAwEAAgADAAAAEPDf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAEDAQE/EABGX//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxBOJ//EABsQAQACAwEBAAAAAAAAAAAAAAERIQAxQVFh/9oACAEBAAE/EDIDXl9TyMhVtMkJOcydJljGdlXtvT81j0gCMjeEe9qszOf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;Pokemon Sun Moon&quot;
+        title=&quot;&quot;
+        src=&quot;/static/pokemon-sun-moon-a7e95fc8434a0c22bb02f454f015a657-976d1.jpg&quot;
+        srcset=&quot;/static/pokemon-sun-moon-a7e95fc8434a0c22bb02f454f015a657-87020.jpg 150w,
+/static/pokemon-sun-moon-a7e95fc8434a0c22bb02f454f015a657-31837.jpg 300w,
+/static/pokemon-sun-moon-a7e95fc8434a0c22bb02f454f015a657-976d1.jpg 600w,
+/static/pokemon-sun-moon-a7e95fc8434a0c22bb02f454f015a657-9aea7.jpg 640w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;People have been asking why I’m not playing &lt;a href=&quot;https://www.pokemongo.com/&quot;&gt;Pokémon Go&lt;/a&gt;. And after a few discussions like this, I decided to write a little post.&lt;/p&gt;
+&lt;p&gt;The core Pokémon game is about training your Pokémon, leveling them up, learning new moves, evolving, and forming the perfect team. The result is you form a special bond with your Pokémon since you spent so much time with them that you even feel bad when you put one of your mains in the PC! This is the core essence that makes Pokémon so special and dear to our hearts.&lt;/p&gt;
+&lt;p&gt;Pokémon Go is basically a stripped down version of Ingress, where our beloved Pokémon are reduced to mere commodity. Here, you walk around, collect a dozen Zubats, once you have enough you then “dust” them and turn them into something better. This is a core loop of a card battle game with their hundreds of Chinese knockoffs. The familiar turn-based battle system is instead replaced with a mash-your-finger-at-the-screen-until-someone-dies that is common to a lot of mobile battle games. Unlike Ingress which has a truly unique and engaging location based core loop, Pokémon Go is but a shadow of its precursor with a bunch of mobile-gamey type gimmicks thrown together to artificially keep users engaged and paying.&lt;/p&gt;
+&lt;p&gt;The original Pokémon game is already perfect as a location based game: patches of tall grass, water, gyms, PokéCenters and PokéMarts. Sure there might have to be a few tweaks if you want a faster paced game to encourage walking, if that is the goal. But why completely reinvent the game when you already have something that has been tried and tested for two decades?&lt;/p&gt;
+&lt;p&gt;As one of the biggest Pokémon fans, I couldn’t be more excited for Pokémon Go. It had so much potential. Not only is this the Pokémon MMO we’ve all been waiting for, it is an opportunity for us all to finally live out our childhood dreams in the real world.&lt;/p&gt;
+&lt;p&gt;Yes, I understand Niantic is a small company trying to turn this around in a couple of years, but to be given half-assed of a mobile game with the official Pokémon brand, I feel almost betrayed. This should’ve been a 5-10 year project, a joint effort, but mainly overseen by the devs at Gamefreak, with decades of expertise churning out polished game after game. Nintendo was desperate to enter the mobile market, and Go was their savoir. In my opinion, they should’ve protected their brand better and made a more complete of a game. But seeing how successful Go was, I am happy for them and what it means for the continued popularity of Pokémon. Pokémon is truly a part of my childhood, and for someone like me, I hope that Pokémon Go’s tremendous success will someday lead to that game I’ve been wishing for.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Transistor]]></title><description><![CDATA[Transistor . I am speechless. In fact, it left me crying by the end credits. What a perfectly crafted game: the art, the gameplay, and—woah…]]></description><link>https://www.iamnop.com//posts/2015-06-30-transistor</link><guid isPermaLink="false">https://www.iamnop.com//posts/2015-06-30-transistor</guid><pubDate>Tue, 30 Jun 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/transistor-78c49159ff71255a7f2dd8a1980bc290-d8eed.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 600px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 55.41666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAY2vdOyUYr//xAAaEAACAwEBAAAAAAAAAAAAAAAAAQIDERAx/9oACAEBAAEFAsJxzlZZJsXn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGBAAAwEBAAAAAAAAAAAAAAAAARAhABH/2gAIAQEABj8C3QI6V//EABoQAAIDAQEAAAAAAAAAAAAAAAABESExUWH/2gAIAQEAAT8hayo0XaKF+Mjioxi3hrjMD//aAAwDAQACAAMAAAAQND//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8Qta//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxAVZ//EABwQAQACAgMBAAAAAAAAAAAAAAEAESExUZGh0f/aAAgBAQABPxBAeG2HFEgnUzUVVka3K4KAKsNYfhA6MXS4jQharmf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;Transistor&quot;
+        title=&quot;&quot;
+        src=&quot;/static/transistor-78c49159ff71255a7f2dd8a1980bc290-976d1.jpg&quot;
+        srcset=&quot;/static/transistor-78c49159ff71255a7f2dd8a1980bc290-87020.jpg 150w,
+/static/transistor-78c49159ff71255a7f2dd8a1980bc290-31837.jpg 300w,
+/static/transistor-78c49159ff71255a7f2dd8a1980bc290-976d1.jpg 600w,
+/static/transistor-78c49159ff71255a7f2dd8a1980bc290-fa1a8.jpg 900w,
+/static/transistor-78c49159ff71255a7f2dd8a1980bc290-d8eed.jpg 960w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.supergiantgames.com/games/transistor/&quot;&gt;Transistor&lt;/a&gt;. I am speechless. In fact, it left me crying by the end credits.&lt;/p&gt;
+&lt;p&gt;What a perfectly crafted game: the art, the gameplay, and—woah—the storytelling. Every aspect was perfect, each given its own unique treatment. Yet, they were all tied together by a dominant theme so strong the whole thing seemed almost more of an “experience” than a “game”. The ending was so powerful it leaves you with that lingering feeling you get after reading a good novel. Transistor was one of the best gaming experience I’ve ever had. It will surely stick with me for a while.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[WebGL GPU Particles]]></title><description><![CDATA[Weekend project I started about a month ago, a WebGL GPU particle simulator, simulating 1 million particles at 60 fps! Live code:  http…]]></description><link>https://www.iamnop.com//posts/2014-06-08-webgl-gpu-particles</link><guid isPermaLink="false">https://www.iamnop.com//posts/2014-06-08-webgl-gpu-particles</guid><pubDate>Sun, 08 Jun 2014 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Weekend project I started about a month ago, a WebGL GPU particle simulator, simulating 1 million particles at 60 fps!&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/portfolio/webglparticles_1.png&quot; alt=&quot;WebGL GPU Particles&quot;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
