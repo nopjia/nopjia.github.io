@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nop Jiarathanakul]]></title><description><![CDATA[Nop Jiarathanakul online portfolio. I love making things, especially beautiful 3D applications. I like WebGL, shaders, three.js, typography, and indie rock. My background is in computer graphics, games, and animation.]]></description><link>https://www.iamnop.com/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 31 Aug 2018 06:26:59 GMT</lastBuildDate><item><title><![CDATA[New Website!]]></title><description><![CDATA[This post marks the launch of a new long overdue website! I released my current website at  https://www.iamnop.com/  a long time ago, but it…]]></description><link>https://www.iamnop.com//posts/2018-08-30-new-website</link><guid isPermaLink="false">https://www.iamnop.com//posts/2018-08-30-new-website</guid><pubDate>Thu, 30 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This post marks the launch of a new long overdue website!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nop Jiarathanakul]]></title><description><![CDATA[Nop Jiarathanakul online portfolio. I love making things, especially beautiful 3D applications. I like WebGL, shaders, three.js, typography, and indie rock. My background is in computer graphics, games, and animation.]]></description><link>https://www.iamnop.com/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 31 Aug 2018 06:53:39 GMT</lastBuildDate><item><title><![CDATA[New Website!]]></title><description><![CDATA[This post marks the launch of a new long overdue website! I released my current website at  https://www.iamnop.com/  a long time ago, but it…]]></description><link>https://www.iamnop.com//posts/2018-08-30-new-website</link><guid isPermaLink="false">https://www.iamnop.com//posts/2018-08-30-new-website</guid><pubDate>Thu, 30 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This post marks the launch of a new long overdue website!&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/screenshot-febe9a9a57d6fbf4357a66a9f2aab005-7424e.png&quot;
+    href=&quot;/static/screenshot-a58ed48d1627af9cb39564bd5b6d3908-7f6dc.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -10,25 +10,25 @@
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; ; max-width: 600px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 73.31838565022422%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAACxklEQVQ4y4VSS2sTURTu3oW4E/WXCP4A0Y2u3IgWN4Ig4sJu28GNLuoDBHcupNWCgliKiEhLmzZNkzbJJM1j5mYySWPeTfNO5nHn89ybGApGHPj47j3n3G++e+6ZOdj3zYeiqhJV4wtGNq8kUrqS1g3FMPMKy5iKzrKnYChZ01QyhqlotBYx4vnDWOL5nj9wY0Z83GoA6AJeB+DEdgtwae20KT4g2KfgEA3HcWcU83rEHCwRWZWCbluz0M/Y6DILPeKOZg9rqt0phe1hPU573fYoJkA1dkVP2J1KzBa1XlcnZn2gAlMLLUlBu6l5Xs8A7zCPdzJw24yMZuARKEZ7XbLICcbAAKhe5J2WBuskTVZryKaDHyeCGAsKbhfDKKc3UWU+lLQt1M2AFJI/EGjp1B19Ijg8Tv5bUDgd1GJomn40cwG0S5EJ7JMURN5tptArhaXgGCRYF1ee7rBbUVFmO6gau9JhWfdJ9Koxuq4pWeTHZwRI8BiVo8Mpgv0sGkchmOoPFJIbKJFQIbEh16IVIj/qW2rkjgSdpujhyXRBUWQ309LFoH44ab536pFkP3sjMYtqHcsU84Nqufi3oHxFcoFhjq6XBf/zwoLHj+KSQylGLmtF6m9Lkw4LBTb9UfrkrJEPolOOThyJ0Rk2UrCJxVpOQ1nFwfZXRPyrTj61hWhwfSRIc+TSIU6FLjng/YrKW+Yut8phDivPMcgRDI6hSXtaOwXJvVqcx/e+8X3fF8tMbiGyt7EsBeEWICYdKELME2+qSO6sYPnDEtbX11DLB/B9y48ni0tYePUOi0+fIbS2AnFNEkc9H8LgOAEtvvtZCprJTS2X8mXoL+wX87Ptn5/Y3OP77M7sbfbwwT32enGBvX/7ht26dpPNXr3O7l6+wl7OPWKVXJCJM0fadpq4Sld+MTP+zhMu/g/nCGem5y4QLhHOCrHf/Oi7wX8WK3YAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 65.55555555555556%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsSAAALEgHS3X78AAACeElEQVQ4y11Sy27TUBD138GSBRISG36gCDbAng0SKxYIgZBg0UUFSA0rFhWUggr0qT5I7dRx/EjaOk4dp0n8iGP7Hmau7RZYHM3cmXvPnJm5im1qwrDasBxLnJ2eous4cF0Xg4En4XmEfv8Kngvf53gf/SpGVrClt0LJwy6yqSWy0EI81DH2VKSBjvhcw9htIvJbyEMb+dRGEdmYBT2cGRrikQERdWWc8+QLtooIDSGmlKxsGmgoJjrEtF3a0ACiDvltGcvHBmZDKlLlGJQTE+8QKXEoBT+cdirQ49hCdN7E0NlG0NuB72zh4mSXSC0UYacqYJI1y/vkh4MmtN0V6AerUPLYA5OKsCQUdCEZHCLorGPY+YERkU3cfaSjVqmS7uUjDRmfyWf1yVCD2VyDSqSKyBMUcQ+1UiaMWaG9Cd/aIKVbEj6dmRSJjcnZnoxxN2VXJs1Wo+J7UGZBCxPv6FIhXwq6OzD3V3CirqGnfoXT/ILu0SpCmpMcyeC3LIq6K7LzC53iTSi2+p22eXBZjZOzoSpbHXOrVJkfJxTLq5Z5boxypleknFfmF8f/BCXIL7hA4pBfEdTxCvlYR0YE/5Mq9aH4K8jzOKctT0g5fx2uzJiP20hJQEp3MgKrL+N6WZwJiURUqkT9DWKaRWD9wmxAoyh8WoQDpBaQkU0sSSCog1oMFRZRuXVRKxQF/zMC/7fI3cbxz/f42HiH7f0NBLTVxudvePJmGc/eLmHxxXP0DtaAmSMJM1pI4qtSkMKs/L+yyBRzJiQF3dY6nj5+gIX7d/Ho4QIaH15j8eUr3LlxG/du3sLCtevY/LQE5Cc0S7koIZc0NYo/6c28mD1L8hwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;www.iamnop.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/screenshot-febe9a9a57d6fbf4357a66a9f2aab005-fb8a0.png&quot;
-        srcset=&quot;/static/screenshot-febe9a9a57d6fbf4357a66a9f2aab005-1a291.png 148w,
-/static/screenshot-febe9a9a57d6fbf4357a66a9f2aab005-2bc4a.png 295w,
-/static/screenshot-febe9a9a57d6fbf4357a66a9f2aab005-fb8a0.png 590w,
-/static/screenshot-febe9a9a57d6fbf4357a66a9f2aab005-526de.png 885w,
-/static/screenshot-febe9a9a57d6fbf4357a66a9f2aab005-fa2eb.png 1180w,
-/static/screenshot-febe9a9a57d6fbf4357a66a9f2aab005-7424e.png 1338w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/screenshot-a58ed48d1627af9cb39564bd5b6d3908-89795.png&quot;
+        srcset=&quot;/static/screenshot-a58ed48d1627af9cb39564bd5b6d3908-11c80.png 150w,
+/static/screenshot-a58ed48d1627af9cb39564bd5b6d3908-d24be.png 300w,
+/static/screenshot-a58ed48d1627af9cb39564bd5b6d3908-89795.png 600w,
+/static/screenshot-a58ed48d1627af9cb39564bd5b6d3908-29324.png 900w,
+/static/screenshot-a58ed48d1627af9cb39564bd5b6d3908-6fc3e.png 1200w,
+/static/screenshot-a58ed48d1627af9cb39564bd5b6d3908-7f6dc.png 1350w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
@@ -103,7 +103,7 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-7372c.png&quot;
+    href=&quot;/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-b920e.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -111,7 +111,7 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; ; max-width: 600px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -119,15 +119,15 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Swap Cmd and Ctrl keys&quot;
         title=&quot;&quot;
-        src=&quot;/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-fb8a0.png&quot;
-        srcset=&quot;/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-1a291.png 148w,
-/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-2bc4a.png 295w,
-/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-fb8a0.png 590w,
-/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-7372c.png 780w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-89795.png&quot;
+        srcset=&quot;/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-11c80.png 150w,
+/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-d24be.png 300w,
+/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-89795.png 600w,
+/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-b920e.png 780w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
@@ -138,7 +138,7 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-7372c.png&quot;
+    href=&quot;/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-b920e.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -146,7 +146,7 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; ; max-width: 600px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -154,15 +154,15 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Swap Cmd and Ctrl keys Windows keyboard&quot;
         title=&quot;&quot;
-        src=&quot;/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-fb8a0.png&quot;
-        srcset=&quot;/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-1a291.png 148w,
-/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-2bc4a.png 295w,
-/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-fb8a0.png 590w,
-/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-7372c.png 780w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-89795.png&quot;
+        srcset=&quot;/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-11c80.png 150w,
+/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-d24be.png 300w,
+/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-89795.png 600w,
+/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-b920e.png 780w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
@@ -175,7 +175,7 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-56a1e.png&quot;
+    href=&quot;/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-5e9b3.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -191,13 +191,13 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Karabiner Settings 1&quot;
         title=&quot;&quot;
-        src=&quot;/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-56a1e.png&quot;
-        srcset=&quot;/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-8869e.png 148w,
-/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-87a4d.png 295w,
-/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-56a1e.png 578w&quot;
+        src=&quot;/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-5e9b3.png&quot;
+        srcset=&quot;/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-24f8c.png 150w,
+/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-7fff9.png 300w,
+/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-5e9b3.png 578w&quot;
         sizes=&quot;(max-width: 578px) 100vw, 578px&quot;
       /&gt;
     &lt;/span&gt;
@@ -208,7 +208,7 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-f753a.png&quot;
+    href=&quot;/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-dc63d.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -224,13 +224,13 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Karabiner Settings 2&quot;
         title=&quot;&quot;
-        src=&quot;/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-f753a.png&quot;
-        srcset=&quot;/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-aeb91.png 148w,
-/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-71e95.png 295w,
-/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-f753a.png 575w&quot;
+        src=&quot;/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-dc63d.png&quot;
+        srcset=&quot;/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-86f19.png 150w,
+/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-00861.png 300w,
+/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-dc63d.png 575w&quot;
         sizes=&quot;(max-width: 575px) 100vw, 575px&quot;
       /&gt;
     &lt;/span&gt;
@@ -263,7 +263,7 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-a6eba.png&quot;
+    href=&quot;/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-15730.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -271,7 +271,7 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; ; max-width: 600px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -279,17 +279,17 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;HyperSwitch Screenshot&quot;
         title=&quot;&quot;
-        src=&quot;/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-fb8a0.png&quot;
-        srcset=&quot;/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-1a291.png 148w,
-/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-2bc4a.png 295w,
-/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-fb8a0.png 590w,
-/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-526de.png 885w,
-/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-fa2eb.png 1180w,
-/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-a6eba.png 1437w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-89795.png&quot;
+        srcset=&quot;/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-11c80.png 150w,
+/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-d24be.png 300w,
+/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-89795.png 600w,
+/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-29324.png 900w,
+/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-6fc3e.png 1200w,
+/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-15730.png 1437w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
@@ -300,7 +300,7 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-833fe.png&quot;
+    href=&quot;/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-71e32.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -308,7 +308,7 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
   
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+    style=&quot;position: relative; display: block; ; max-width: 600px; margin-left: auto; margin-right: auto;&quot;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
@@ -316,15 +316,15 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;HyperSwitch Settings&quot;
         title=&quot;&quot;
-        src=&quot;/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-fb8a0.png&quot;
-        srcset=&quot;/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-1a291.png 148w,
-/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-2bc4a.png 295w,
-/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-fb8a0.png 590w,
-/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-833fe.png 689w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        src=&quot;/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-89795.png&quot;
+        srcset=&quot;/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-11c80.png 150w,
+/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-d24be.png 300w,
+/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-89795.png 600w,
+/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-71e32.png 689w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
