@@ -1,5 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nop Jiarathanakul]]></title><description><![CDATA[Nop Jiarathanakul online portfolio. I love making things, especially beautiful 3D applications. I like WebGL, shaders, three.js, typography, and indie rock. My background is in computer graphics, games, and animation.]]></description><link>https://www.iamnop.com/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 31 Aug 2018 05:24:56 GMT</lastBuildDate><item><title><![CDATA[New Website!]]></title><description><![CDATA[This post marks the launch of a new long overdue website! I released my current website at  https://www.iamnop.com/  a long time ago, but it…]]></description><link>https://www.iamnop.com//posts/2018-08-30-new-website</link><guid isPermaLink="false">https://www.iamnop.com//posts/2018-08-30-new-website</guid><pubDate>Thu, 30 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This post marks the launch of a new long overdue website!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/portfolio/new-website.png&quot; alt=&quot;www.iamnop.com&quot;&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nop Jiarathanakul]]></title><description><![CDATA[Nop Jiarathanakul online portfolio. I love making things, especially beautiful 3D applications. I like WebGL, shaders, three.js, typography, and indie rock. My background is in computer graphics, games, and animation.]]></description><link>https://www.iamnop.com/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 31 Aug 2018 06:26:59 GMT</lastBuildDate><item><title><![CDATA[New Website!]]></title><description><![CDATA[This post marks the launch of a new long overdue website! I released my current website at  https://www.iamnop.com/  a long time ago, but it…]]></description><link>https://www.iamnop.com//posts/2018-08-30-new-website</link><guid isPermaLink="false">https://www.iamnop.com//posts/2018-08-30-new-website</guid><pubDate>Thu, 30 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This post marks the launch of a new long overdue website!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/screenshot-febe9a9a57d6fbf4357a66a9f2aab005-7424e.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 73.31838565022422%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAACxklEQVQ4y4VSS2sTURTu3oW4E/WXCP4A0Y2u3IgWN4Ig4sJu28GNLuoDBHcupNWCgliKiEhLmzZNkzbJJM1j5mYySWPeTfNO5nHn89ybGApGHPj47j3n3G++e+6ZOdj3zYeiqhJV4wtGNq8kUrqS1g3FMPMKy5iKzrKnYChZ01QyhqlotBYx4vnDWOL5nj9wY0Z83GoA6AJeB+DEdgtwae20KT4g2KfgEA3HcWcU83rEHCwRWZWCbluz0M/Y6DILPeKOZg9rqt0phe1hPU573fYoJkA1dkVP2J1KzBa1XlcnZn2gAlMLLUlBu6l5Xs8A7zCPdzJw24yMZuARKEZ7XbLICcbAAKhe5J2WBuskTVZryKaDHyeCGAsKbhfDKKc3UWU+lLQt1M2AFJI/EGjp1B19Ijg8Tv5bUDgd1GJomn40cwG0S5EJ7JMURN5tptArhaXgGCRYF1ee7rBbUVFmO6gau9JhWfdJ9Koxuq4pWeTHZwRI8BiVo8Mpgv0sGkchmOoPFJIbKJFQIbEh16IVIj/qW2rkjgSdpujhyXRBUWQ309LFoH44ab536pFkP3sjMYtqHcsU84Nqufi3oHxFcoFhjq6XBf/zwoLHj+KSQylGLmtF6m9Lkw4LBTb9UfrkrJEPolOOThyJ0Rk2UrCJxVpOQ1nFwfZXRPyrTj61hWhwfSRIc+TSIU6FLjng/YrKW+Yut8phDivPMcgRDI6hSXtaOwXJvVqcx/e+8X3fF8tMbiGyt7EsBeEWICYdKELME2+qSO6sYPnDEtbX11DLB/B9y48ni0tYePUOi0+fIbS2AnFNEkc9H8LgOAEtvvtZCprJTS2X8mXoL+wX87Ptn5/Y3OP77M7sbfbwwT32enGBvX/7ht26dpPNXr3O7l6+wl7OPWKVXJCJM0fadpq4Sld+MTP+zhMu/g/nCGem5y4QLhHOCrHf/Oi7wX8WK3YAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;www.iamnop.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/screenshot-febe9a9a57d6fbf4357a66a9f2aab005-fb8a0.png&quot;
+        srcset=&quot;/static/screenshot-febe9a9a57d6fbf4357a66a9f2aab005-1a291.png 148w,
+/static/screenshot-febe9a9a57d6fbf4357a66a9f2aab005-2bc4a.png 295w,
+/static/screenshot-febe9a9a57d6fbf4357a66a9f2aab005-fb8a0.png 590w,
+/static/screenshot-febe9a9a57d6fbf4357a66a9f2aab005-526de.png 885w,
+/static/screenshot-febe9a9a57d6fbf4357a66a9f2aab005-fa2eb.png 1180w,
+/static/screenshot-febe9a9a57d6fbf4357a66a9f2aab005-7424e.png 1338w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
 &lt;p&gt;I released my current website at &lt;a href=&quot;https://www.iamnop.com/&quot;&gt;https://www.iamnop.com/&lt;/a&gt; a long time ago, but it was practically a placeholder with almost no content. Now I’ve rebuilt it from the ground up with &lt;a href=&quot;https://reactjs.org/&quot;&gt;React&lt;/a&gt; and a powerful site generator &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;Gatsby&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;It took me a good while (a month or so) to finally complete this project, as I was learning a lot of new libraries along the way. I was also being a smartypants and jumped ahead to Gatsby v2, which is still in beta. I ended up writing and rewriting a lot of throwaway code as the beta still had a ton of moving parts and bugs. However, the Gatsby community is very active and has been very helpful in helping me get through the blockers. Thanks guys!&lt;/p&gt;
 &lt;p&gt;I will probably be writing more about the development process later. In the meantime, if you’re curious you can check out the code on Github: &lt;a href=&quot;https://github.com/nopjia/gatsby-blog&quot;&gt;https://github.com/nopjia/gatsby-blog&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hire]]></title><description><![CDATA[Hire Me need a graphics guy? Looking for hand-crafted, high-end, interactive 3D experiences for your website or product? I’m available for…]]></description><link>https://www.iamnop.com//hire</link><guid isPermaLink="false">https://www.iamnop.com//hire</guid><pubDate>Sat, 04 Aug 2018 01:35:46 GMT</pubDate><content:encoded>&lt;h1&gt;Hire Me&lt;/h1&gt;
@@ -58,7 +93,249 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
 &lt;li&gt;Enable “WebGL Draft Extensions” (chrome://flags/#enable-webgl-draft-extensions)&lt;/li&gt;
 &lt;li&gt;For Windows, you might also need to enable D3D11 (chrome://flags/#enable-d3d11)&lt;/li&gt;
 &lt;li&gt;If it doesn’t work, try again with Firefox? I’m sorry but I promise I will add support for no extension soon!&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[CUDA Path Tracer]]></title><description><![CDATA[My last school project, ever! (Hopefully!) Github:  https://github.com/nopjia/tracer Video:  http://www.youtube.com/watch?v=mbpqxlJHaBE This…]]></description><link>https://www.iamnop.com//posts/2013-07-25-cuda-path-tracer</link><guid isPermaLink="false">https://www.iamnop.com//posts/2013-07-25-cuda-path-tracer</guid><pubDate>Thu, 25 Jul 2013 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;My last school project, ever! (Hopefully!)&lt;/p&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Mac, the Windows Way]]></title><description><![CDATA[I’ve been a Windows user all my life, but I have to admit, Macs are great computers. The hardware is absolutely gorgeous, and the software…]]></description><link>https://www.iamnop.com//posts/2013-10-25-mac-the-windows-way</link><guid isPermaLink="false">https://www.iamnop.com//posts/2013-10-25-mac-the-windows-way</guid><pubDate>Fri, 25 Oct 2013 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I’ve been a Windows user all my life, but I have to admit, Macs are great computers. The hardware is absolutely gorgeous, and the software experience is cohesive and smooth. They also make a great development environment thanks to the Unix system. (There are of course many other things to say about Macs, but I’ll let the fanboys sing the praise.)&lt;/p&gt;
+&lt;p&gt;When I was presented with the choice of Mac or Windows at my new job, I bit the bullet and took a Mac. I said “bit the bullet” because despite all the things I said, &lt;strong&gt;I absolutely hate Mac keyboard shortcuts.&lt;/strong&gt; I simply cannot deal with the ⌘. Why am I hitting hotkeys with my thumb when it’s supposed to be at home resting on the spacebar? And what is that Fn key doing in the bottom left corner, one of the most valuable spots on the keyboard? Also, why does hitting Enter on a file rename it instead of opening it? I can go on. I’m sure the smart folks at Apple could easily fix some of these, but for the sake of being different, they have to have it their way. Such is marketing.&lt;/p&gt;
+&lt;p&gt;So, for the past couple weeks, I’ve embarked on a journey to make my Mac behave more sensibly like Windows. And recently, I’ve reached a point where I feel like I have triumphed, and I would like to share some of those findings.&lt;/p&gt;
+&lt;p&gt;Here we go.&lt;/p&gt;
+&lt;h1&gt;How to Use Your Mac like Windows&lt;/h1&gt;
+&lt;h2&gt;First Things First&lt;/h2&gt;
+&lt;p&gt;Do it. Swap those Cmd and Ctrl keys.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-7372c.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 88.84615384615384%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAAsSAAALEgHS3X78AAACsklEQVQ4y6WUyW4UMRCGh0XixBtwSsiAcuCAlBbiEYCHQ+IK4sA75EwCgYAmM93J9L7vy0xmy2zpjruocjI5sCQELJXKdrs+/66yu9HAJrZbD45au881Rd3yXF/QVE0QO4dCpy0JkngkfNn7Knza/cznzudFwbZcgdbalk0xz1RF3Wys2vdv+2+K2IHAD06zLGdxHDPbdphpWsyybCZ3FXZ02GWWaXMzDYtlacqKPGdZllXT6RR03egg6i4HHhy035XVGSRJUqVJAnmeAUIB4dDv96Ho9aAoChxn6LGP37VkBlbYgyyN2WRyAqhUQdT9C+DB2+n0BDzPK8MwrIMgqE3T5Oa6bm2gR8W14zh1FEV1FPp1fzCu0yyvPc89o01xrfwTcErACmFcSRwnNAYEcu/5PuBmMBxNIOmfwGI+gxzXuZ53NZCCFosFVFXFwQSk46dpijn2ICpGsO+VsFwu+HfvWiAqnM1mQGPHdmghkGqCRmEAvfESPhoLvmn6N8DgAjiZjDnEx6OSEgrq9woYTZegJ3Ooy/n5Ca4DYtIRNoEcq9rD6s7nc378sixhNBrBeDSEbbWCD20GTlRgGqgox78HoprKdRwwDANs2wZDP/dkpJQ8Vhok1YW2jOtMC9Ph/1khAami3W4XFEUBUZR4X5IkkBWZz8myDIamYn7NVX6vrzJVVlVV0DQNX4DOjcarPqkMw4hfIxRxtUIqSojVpFxSAFlEhuOV0RpKwYX/FdhqtfhLwdyd6obB8GUw1/UYBjNUzRzHZqiMz2vofT/g3/AEzLSsajgcUmz3Eog5eg/Y8L3Wg8EAbmJ0E07xBrier18Cd3Z2XmNeSEUPdxrezPRj/CMtOqK0twLeWltbe9xsNl+sr6+//Bfb2Hj46lFzYwtZ9xqYCw5Fu/Ofdvvpk83GD630EKAIY+m8AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Swap Cmd and Ctrl keys&quot;
+        title=&quot;&quot;
+        src=&quot;/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-fb8a0.png&quot;
+        srcset=&quot;/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-1a291.png 148w,
+/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-2bc4a.png 295w,
+/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-fb8a0.png 590w,
+/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-7372c.png 780w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;If you’re using a Windows keyboard, your settings will instead look like this:&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-7372c.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 88.84615384615384%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAAsSAAALEgHS3X78AAACu0lEQVQ4y6VUy27UMBQdHhIr/oBVSwfUBQukRohPAD4OiS2IBf/AmhYKBU1nJp3Jy07iJJPJa97pvFPncu12uuDR8rB0dGP7+vj4XDuVCrZmvXavVTt4aurGnsd8xTRMpdk4URp1VVHVlvL58Ivy8eCT0mhgv9mScGymMMx1bEeseWLoxm5l0759PXqVdV0I/GCVJCnvdrvccVxOqc1t6nCtrfPWSZvbtsMpodw0CU/imGdpypMkKabTKVgWaSDVbUl4fFx/sy7OIIqiIo4iSNMEkBRjCoPBQMYsy8Q85HkOZ8UKSLIAGmSQxF2e56eASnWkuntBePx6Oj0Fz/PWnU6nDIKgpJRKMMZKQmiJiiWQtEzjqOyP8jJO0tLz2Fm/3wfM1X4gnArCAskAj4EKI9EHlzEZPd8H3AyG4wl0ezks5jNIMY953tWEYtFisYCiKCQxKpTHj+MYPfYgzMZw5K1huVzIee9aQlQ4m81A9F3HFYng45jwL+wE0Jss4QNZyk3jPyEMLgjzfCKV+XhUoaTX60G/l8F4ugQrmkO5np+f4DrCMAxlJVOsqiCZz+fy+Ov1GsbjMUzGI3hvFPCuzsENM7RBFGXwa0JUUzDXBUIIOI4DxDqPAkKpiC7OqwaDuoZ51IYg8H+vUBCKirbbbdB1HZpNVX6rqgqarskxTdOAmAb6S6W/aNH1VRaVNQwDTNPEF2BJiP7mW6jsdEJ5jVDE1QpFUTpYTeGlWCAQCmB/A5EjLLiIPxPWajX5UtC7lUUIJ5RyxjyOizmq5q7rcFQmx02Mvh/IOTwBp7ZdjEYjsbZ9SYgevQVs+F7L4XAIfwNxE1Z4A5jnW5eE+/v7L9EXoaKHO43+DtYA/0KLRlM93BDe2NraelitVp9tb28//xfs7Nx/8aC6s4dcdyrohSRF3PpP3Hz8aLfyHUEWEPNBP6E0AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Swap Cmd and Ctrl keys Windows keyboard&quot;
+        title=&quot;&quot;
+        src=&quot;/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-fb8a0.png&quot;
+        srcset=&quot;/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-1a291.png 148w,
+/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-2bc4a.png 295w,
+/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-fb8a0.png 590w,
+/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-7372c.png 780w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Karabiner&lt;/h2&gt;
+&lt;p&gt;Link: &lt;a href=&quot;https://pqrs.org/osx/karabiner/&quot;&gt;https://pqrs.org/osx/karabiner/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is where the magic happens. This is a powerful tool to remap your keyboard, and we’ll be using this to map most things to the Windows style. (Technically, the Cmd and Ctrl swap from above can be done here as well, but I was having issues when I tried it and not all mappings work as expected.) Here is my setup:&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-56a1e.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 578px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 82.8719723183391%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAIAAABSJhvpAAAACXBIWXMAAAsSAAALEgHS3X78AAAB20lEQVQ4y31T27KbIBT1/z+pfexMHzs90yQiUQRBEG/R4CXHJNplejrTzklcY9AJbNZlg1eUhc9SlaZSJiJJ8BGxOEmSpm2naXrfhNf3/Ve/+/GLUBqEIQpjeqRCJIyxcRwvm/CqsnyjKooFkOe5c65pmvP53DTtMAzjJry+674cHJiDgPiEHMNjQAg22u12bdtC2xZzWZYRT6VSWZZ1XQcXbn3h5/oe3MNWceecr0fGZRxFlB4FF0FAoygikBIEu8M+Lwoo7J/BK4qCiVRrLaWMOUfOZ7dyu39GkLz0/D10JFzLEDXy5pxLqfAYY2Qi8U9RljD/OT+vrutve/22J3HMjMlSbWxmzYoM4a/1Sp1OJ/T8c+c8TPyMShoypRTs5blFTWYxWgi+PgDa57LB7Ad0d/AZi8GGDn8s/Zvzn3XP00ZodV2liYBLjpMFlSrNrdWphqjHJi/hTdN1WRZa3JjMpEq44Fqb9/dpXpZ5xrCFlfl2nfLzZIs6MwaGrbXg7PtuGIfrtHp+dUO8U9OMvSO6I6Eg/gFn08fZWLH3fWKMjmOOHcGBONz/8OB7me+mnYQyKS7m2mCJVfN9/iC8XGDt9gweZuFONTdbNae6wiWrygoT9wfmB+4v8BtPUbtev59vdwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Karabiner Settings 1&quot;
+        title=&quot;&quot;
+        src=&quot;/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-56a1e.png&quot;
+        srcset=&quot;/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-8869e.png 148w,
+/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-87a4d.png 295w,
+/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-56a1e.png 578w&quot;
+        sizes=&quot;(max-width: 578px) 100vw, 578px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-f753a.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 575px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 26.782608695652176%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAIAAADKYVtkAAAACXBIWXMAAAsSAAALEgHS3X78AAAAsklEQVQY022P2w7CIBBE+/8fqEmrRaVQdrm1VRJtsTr4UhM9IWSBmR22YmYpu/NFxhhTSrdCenwxz/Pjfk8/QFc9P4hWNM2hruv9bn84trrv2VpmLGaiOAyvH9Z1rZac6bZS0RERGzJa98agJoUexijVYV+WBerNuZmvL+eDOLWd0vBgCudcB6QCyBdCTNP1X3Jp+XQeeheCh9laZ3Hw5YpgdR7JIQT8aBhHjFDevM85vwEV6Rnb/Nj6RAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Karabiner Settings 2&quot;
+        title=&quot;&quot;
+        src=&quot;/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-f753a.png&quot;
+        srcset=&quot;/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-aeb91.png 148w,
+/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-71e95.png 295w,
+/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-f753a.png 575w&quot;
+        sizes=&quot;(max-width: 575px) 100vw, 575px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;This gives you:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows style &lt;strong&gt;hotkeys with Ctrl&lt;/strong&gt; instead of Cmd&lt;/li&gt;
+&lt;li&gt;For Macbooks, Fn key behaves like Ctrl&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Windows style Alt+Tab&lt;/strong&gt; to switch windows. I’m using the physical location of the key to mimic this behavior, so the mapping is different for Mac vs Windows keyboards. See above.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enter&lt;/strong&gt; to open files&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Delete&lt;/strong&gt; to delete files. Only on keyboards with Delete key, not Backspace. So on a Macbook you’d still have to do Cmd+Backspace (well, Ctrl in this case).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;F2&lt;/strong&gt; to rename files&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Text Editing: this is crucial if you write code!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ctrl+Arrows/Delete/Backspace&lt;/strong&gt; does entire-word operations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Windows style Home/End&lt;/strong&gt; behavior, takes you to beginning/end of line. Normally, Mac Home/End takes you to beginning/end of file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;BetterTouchTool&lt;/h2&gt;
+&lt;p&gt;Link: &lt;a href=&quot;https://folivora.ai/downloads&quot;&gt;https://folivora.ai/downloads&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For the window “snapping” behavior introduced in Windows 7 (originally called Aero Snap.) There are a lot of options out there but this is just one I found to work well and it’s free!&lt;/p&gt;
+&lt;h2&gt;HyperSwitch&lt;/h2&gt;
+&lt;p&gt;Link: &lt;a href=&quot;https://bahoom.com/hyperswitch&quot;&gt;https://bahoom.com/hyperswitch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mac “Alt+Tab” behavior switches you between apps, and all windows of that app. So, for example, you can’t quickly switch to just one Finder window without bringing out 50 other ones that are open. This app switcher alternative fixes that and allows switching between individual windows. Install it and map the key to Cmd+Tab, replacing the Mac default.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-a6eba.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 28.25330549756437%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAIAAABM9SnKAAAACXBIWXMAAAsSAAALEgHS3X78AAABeUlEQVQY0wFuAZH+AD5xqzhuqjBrqCJhoiZkpThxr0J4tUN6t0N8ukR/v0uDwk+Jx1KMy1qRzlyU0V6W0mSa1Gic1G+f1m+g1gBKhcY9f8g6e8A/gcU+hstGis5JkNZQldtRltpVmdxand5kouBvqeNuquV6sed+tel9tOiPvfGNu+6EteQArMnnyLyptM7kssjS0M27gKS+TV5tU2NvWZnTSGFtZpzOud77yeDt0eX5tNjv0+Xwt9n6jqqgt9jeo8/5AJXB7aS+v5vH7Im3zJ68t3qfvlBidVdre3Cn2Vx7lHmt27PZ+7bP6NDm+7jT7srX5sze+Jyzq8Pb4Lzc+gA7gMA4hMo/hsRKjslWlM1onM56q9yHt+SIuOOKwvCYxOqix+iwz+y20ezC2O7K3e7M4O/R5/3O5vjM5vEAOninQH2rToWxXY61Z5W4bpu8eqPChazIj7XOm7zSq8bZts/dw9Tezd3l0ePq1Oft2Ovv2u3u3e/u4fDtVczvvPTxGXMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;HyperSwitch Screenshot&quot;
+        title=&quot;&quot;
+        src=&quot;/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-fb8a0.png&quot;
+        srcset=&quot;/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-1a291.png 148w,
+/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-2bc4a.png 295w,
+/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-fb8a0.png 590w,
+/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-526de.png 885w,
+/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-fa2eb.png 1180w,
+/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-a6eba.png 1437w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;For reference, here’s a screenshot of the settings I use.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-833fe.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 81.56748911465893%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAsSAAALEgHS3X78AAAC30lEQVQ4y51Ty07bQBRFYtFW/ITZtEtYw4a/aKX2B1izaegv9AtQVSpRJFbdoFSlOO+EAHGc2CEkfsX22IlJG/JoIF4Q5vbOFNyqSlnU0tGNM7pnzrnnem4On8LWzsLp7ttFUfwiZJJZwSt/FUa1A+FYjAsf3u8IOx8+CtvvtoW93T3h4POBkM/mhUwqI6STaY58Jr+YElMLc/ePnMquB00ZXKd1TVwSlhvt8KgehHXNDtVKNVSVWlg/q4dVuRpaphW6jhs6tsMr4iroBFA6La1HhOlc9vX4egIOaVPXa8Onkx5spUcgNQOwLR1aLRsuLi7AsizodDrgez60223+n+d5dDKZQDqdjkWEopiIDfs9qGrk5lhSqVo+pop0QpWKTGVZpmVJomdndYqE1DAMappmVB3HuRkOhyCK4m/CZDIZ6/f74BF3arcsqhsm6KYJpmmB67qATWDbNiptAZ7z3/fveDYdjUaQSCQ2I0J8iQ0HA2g2temJJFOlWoVqpQI1tQaKooKua0CQ2LYdMFqEEzHcXTaDEBUOBn2wHDItKgazyAmbzSYYuvFLISozLBdSahfOz8/xEh18359NyC2jQsexp4auU0VRQFUVaLBGTeP2DBxB2yfQQTiOC0HQYYE8YBkH22g0phIGgEFwuyxFXAs+y973LhikCxUNE/ZcTsosI2YrHKBC0zCmmqZRZhUT5HNi1gghcNn7BrrbBanhg0+ciPDfljFll3hTVMNWAjiQjFnFS3j1kIipY0TEfUChiJYH/UtQdP8mXTi9LeSyNJfN06NCgRaPijSbzdF6vU4JLjEqo0gSYeYe4pZvjsdjtv1UxUBwjlAuyyCVSgiJpx0EAf9K/sb9l5JKpd5EhPF4fANndovWfqDVqz+BM4zqLLAeNuv9/f2NiHB5efnp2tra85WVlVeIl3eVY3V1NaqzwM6w98XS0tIzTlYsFlmZRzxCPP4PPLnrnT88PJz7Ce8nb42nBr3XAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;HyperSwitch Settings&quot;
+        title=&quot;&quot;
+        src=&quot;/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-fb8a0.png&quot;
+        srcset=&quot;/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-1a291.png 148w,
+/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-2bc4a.png 295w,
+/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-fb8a0.png 590w,
+/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-833fe.png 689w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;XtraFinder&lt;/h2&gt;
+&lt;p&gt;Link: &lt;a href=&quot;https://www.trankynam.com/xtrafinder/&quot;&gt;https://www.trankynam.com/xtrafinder/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As a bonus, here’s a plugin for your Finder that will give it superpowers! There’s tons of features here to play with, but the most important one in this context is the ability to “Arrange folders on top”! Hooray!&lt;/p&gt;
+&lt;p&gt;And that’s it with my setup. This is in no way perfect, and I’m sure there are other ways to do it and other apps to add. But so far it’s been working pretty well, and definitely makes using my Mac a whole lot more enjoyable.&lt;/p&gt;
+&lt;p&gt;I hope you find this useful too!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CUDA Path Tracer]]></title><description><![CDATA[My last school project, ever! (Hopefully!) Github:  https://github.com/nopjia/tracer Video:  http://www.youtube.com/watch?v=mbpqxlJHaBE This…]]></description><link>https://www.iamnop.com//posts/2013-07-25-cuda-path-tracer</link><guid isPermaLink="false">https://www.iamnop.com//posts/2013-07-25-cuda-path-tracer</guid><pubDate>Thu, 25 Jul 2013 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;My last school project, ever! (Hopefully!)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/portfolio/cudatracer_1.jpg&quot; alt=&quot;CUDA Path Tracer&quot;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Github: &lt;a href=&quot;https://github.com/nopjia/tracer&quot;&gt;https://github.com/nopjia/tracer&lt;/a&gt;&lt;/li&gt;
@@ -89,4 +366,14 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
 &lt;li&gt;&lt;a href=&quot;http://html.adobe.com/webplatform/graphics/customfilters/cssfilterlab/&quot;&gt;http://html.adobe.com/webplatform/graphics/customfilters/cssfilterlab/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://alteredqualia.com/css-shaders/article/&quot;&gt;http://alteredqualia.com/css-shaders/article/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/index.html#shading-language&quot;&gt;https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/index.html#shading-language&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item></channel></rss>
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[WebGL Volumetric Renderer]]></title><description><![CDATA[Live code:  https://www.iamnop.com/WebGL-Volumetric/ Video:  http://www.youtube.com/watch?v=VPhnwOpmUqY GitHub:  https://github.com/nopjia…]]></description><link>https://www.iamnop.com//posts/2012-09-20-webgl-volumetric-renderer</link><guid isPermaLink="false">https://www.iamnop.com//posts/2012-09-20-webgl-volumetric-renderer</guid><pubDate>Thu, 20 Sep 2012 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/portfolio/volumetric.png&quot; alt=&quot;WebGL Volumetric Renderer&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Live code: &lt;a href=&quot;https://www.iamnop.com/WebGL-Volumetric/&quot;&gt;https://www.iamnop.com/WebGL-Volumetric/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: &lt;a href=&quot;http://www.youtube.com/watch?v=VPhnwOpmUqY&quot;&gt;http://www.youtube.com/watch?v=VPhnwOpmUqY&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a href=&quot;https://github.com/nopjia/WebGL-Volumetric&quot;&gt;https://github.com/nopjia/WebGL-Volumetric&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As a small side project, I implemented volumetric ray casting in WebGL. The idea is to ray cast a 3D texture, which should be very fast since OpenGL texture lookups are highly optimized; however, this is not doable since 3D textures are not allowed in WebGL.&lt;/p&gt;
+&lt;p&gt;During SIGGRAPH 2012, I met Luis Kabongo from VICOMTech, who showed me their &lt;a href=&quot;http://demos.vicomtech.org/volren/&quot;&gt;implementation&lt;/a&gt; of a WebGL volume renderer, which they use for medical imaging. They made it possible by, instead of using a 3D texture, using a 2D texture atlas, which is made up of 2D texture slices. This is a very simple solution. I immediate took this idea and implemented my own version.&lt;/p&gt;
+&lt;p&gt;VICOMTech’s volume renderer is for simply viewing 3D datasets, so they implemented it using alpha compositing with no lighting.&lt;/p&gt;
+&lt;p&gt;I took it a step further for my own renderer and implemented physically-based volume rendering. The lighting model is based on light transmittance. I introduced multiple lights into the scene and use exponential fall-off to calculate transmittance.&lt;/p&gt;
+&lt;p&gt;As a result, the renderer features physically-based lighting, volumetric shadows, and support for multiple lights. The results turned out very nicely.&lt;/p&gt;</content:encoded></item></channel></rss>
