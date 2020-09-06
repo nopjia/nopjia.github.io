@@ -1,42 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nop Jiarathanakul]]></title><description><![CDATA[Nop Jiarathanakul online portfolio. I love making things, especially beautiful 3D applications. I like WebGL, shaders, three.js, typography, and indie rock. My background is in computer graphics, games, and animation.]]></description><link>https://www.iamnop.com/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 10 Oct 2018 23:11:33 GMT</lastBuildDate><item><title><![CDATA[New Website!]]></title><description><![CDATA[This post marks the launch of a new long overdue website! I released my current website at  https://www.iamnop.com/  a long time ago, but it…]]></description><link>https://www.iamnop.com//posts/2018-08-30-new-website</link><guid isPermaLink="false">https://www.iamnop.com//posts/2018-08-30-new-website</guid><pubDate>Thu, 30 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This post marks the launch of a new long overdue website!&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nop Jiarathanakul]]></title><description><![CDATA[Nop Jiarathanakul online portfolio. I love making things, especially beautiful 3D applications. I like WebGL, shaders, three.js, typography, and indie rock. My background is in computer graphics, games, and animation.]]></description><link>https://www.iamnop.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 06 Sep 2020 08:20:19 GMT</lastBuildDate><item><title><![CDATA[New Website!]]></title><description><![CDATA[This post marks the launch of a new long overdue website!  I released my current website at https://www.iamnop.com/ a long time ago, but it…]]></description><link>https://www.iamnop.com/posts/2018-08-30-new-website</link><guid isPermaLink="false">https://www.iamnop.com/posts/2018-08-30-new-website</guid><pubDate>Thu, 30 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This post marks the launch of a new long overdue website!&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 700px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/screenshot-a58ed48d1627af9cb39564bd5b6d3908-91756.png&quot;
+    href=&quot;/static/a58ed48d1627af9cb39564bd5b6d3908/21482/screenshot.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 65.55555555555556%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsSAAALEgHS3X78AAACeElEQVQ4y11Sy27TUBD138GSBRISG36gCDbAng0SKxYIgZBg0UUFSA0rFhWUggr0qT5I7dRx/EjaOk4dp0n8iGP7Hmau7RZYHM3cmXvPnJm5im1qwrDasBxLnJ2eous4cF0Xg4En4XmEfv8Kngvf53gf/SpGVrClt0LJwy6yqSWy0EI81DH2VKSBjvhcw9htIvJbyEMb+dRGEdmYBT2cGRrikQERdWWc8+QLtooIDSGmlKxsGmgoJjrEtF3a0ACiDvltGcvHBmZDKlLlGJQTE+8QKXEoBT+cdirQ49hCdN7E0NlG0NuB72zh4mSXSC0UYacqYJI1y/vkh4MmtN0V6AerUPLYA5OKsCQUdCEZHCLorGPY+YERkU3cfaSjVqmS7uUjDRmfyWf1yVCD2VyDSqSKyBMUcQ+1UiaMWaG9Cd/aIKVbEj6dmRSJjcnZnoxxN2VXJs1Wo+J7UGZBCxPv6FIhXwq6OzD3V3CirqGnfoXT/ILu0SpCmpMcyeC3LIq6K7LzC53iTSi2+p22eXBZjZOzoSpbHXOrVJkfJxTLq5Z5boxypleknFfmF8f/BCXIL7hA4pBfEdTxCvlYR0YE/5Mq9aH4K8jzOKctT0g5fx2uzJiP20hJQEp3MgKrL+N6WZwJiURUqkT9DWKaRWD9wmxAoyh8WoQDpBaQkU0sSSCog1oMFRZRuXVRKxQF/zMC/7fI3cbxz/f42HiH7f0NBLTVxudvePJmGc/eLmHxxXP0DtaAmSMJM1pI4qtSkMKs/L+yyBRzJiQF3dY6nj5+gIX7d/Ho4QIaH15j8eUr3LlxG/du3sLCtevY/LQE5Cc0S7koIZc0NYo/6c28mD1L8hwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 65.71428571428571%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsSAAALEgHS3X78AAACeElEQVQ4y11Sy27TUBD138GSBRISG36gCDbAng0SKxYIgZBg0UUFSA0rFhWUggr0qT5I7dRx/EjaOk4dp0n8iGP7Hmau7RZYHM3cmXvPnJm5im1qwrDasBxLnJ2eous4cF0Xg4En4XmEfv8Kngvf53gf/SpGVrClt0LJwy6yqSWy0EI81DH2VKSBjvhcw9htIvJbyEMb+dRGEdmYBT2cGRrikQERdWWc8+QLtooIDSGmlKxsGmgoJjrEtF3a0ACiDvltGcvHBmZDKlLlGJQTE+8QKXEoBT+cdirQ49hCdN7E0NlG0NuB72zh4mSXSC0UYacqYJI1y/vkh4MmtN0V6AerUPLYA5OKsCQUdCEZHCLorGPY+YERkU3cfaSjVqmS7uUjDRmfyWf1yVCD2VyDSqSKyBMUcQ+1UiaMWaG9Cd/aIKVbEj6dmRSJjcnZnoxxN2VXJs1Wo+J7UGZBCxPv6FIhXwq6OzD3V3CirqGnfoXT/ILu0SpCmpMcyeC3LIq6K7LzC53iTSi2+p22eXBZjZOzoSpbHXOrVJkfJxTLq5Z5boxypleknFfmF8f/BCXIL7hA4pBfEdTxCvlYR0YE/5Mq9aH4K8jzOKctT0g5fx2uzJiP20hJQEp3MgKrL+N6WZwJiURUqkT9DWKaRWD9wmxAoyh8WoQDpBaQkU0sSSCog1oMFRZRuXVRKxQF/zMC/7fI3cbxz/f42HiH7f0NBLTVxudvePJmGc/eLmHxxXP0DtaAmSMJM1pI4qtSkMKs/L+yyBRzJiQF3dY6nj5+gIX7d/Ho4QIaH15j8eUr3LlxG/du3sLCtevY/LQE5Cc0S7koIZc0NYo/6c28mD1L8hwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;www.iamnop.com&quot;
-        title=&quot;&quot;
-        src=&quot;/static/screenshot-a58ed48d1627af9cb39564bd5b6d3908-55803.png&quot;
-        srcset=&quot;/static/screenshot-a58ed48d1627af9cb39564bd5b6d3908-551ed.png 175w,
-/static/screenshot-a58ed48d1627af9cb39564bd5b6d3908-1aa07.png 350w,
-/static/screenshot-a58ed48d1627af9cb39564bd5b6d3908-55803.png 700w,
-/static/screenshot-a58ed48d1627af9cb39564bd5b6d3908-eb36e.png 1050w,
-/static/screenshot-a58ed48d1627af9cb39564bd5b6d3908-91756.png 1350w&quot;
+        title=&quot;www.iamnop.com&quot;
+        src=&quot;/static/a58ed48d1627af9cb39564bd5b6d3908/8c557/screenshot.png&quot;
+        srcset=&quot;/static/a58ed48d1627af9cb39564bd5b6d3908/4edbd/screenshot.png 175w,
+/static/a58ed48d1627af9cb39564bd5b6d3908/13ae7/screenshot.png 350w,
+/static/a58ed48d1627af9cb39564bd5b6d3908/8c557/screenshot.png 700w,
+/static/a58ed48d1627af9cb39564bd5b6d3908/e996b/screenshot.png 1050w,
+/static/a58ed48d1627af9cb39564bd5b6d3908/21482/screenshot.png 1350w&quot;
         sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;I released my current website at &lt;a href=&quot;https://www.iamnop.com/&quot;&gt;https://www.iamnop.com/&lt;/a&gt; a long time ago, but it was practically a placeholder with almost no content. Now I’ve rebuilt it from the ground up with &lt;a href=&quot;https://reactjs.org/&quot;&gt;React&lt;/a&gt; and a powerful site generator &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;Gatsby&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;It took me a good while (a month or so) to finally complete this project, as I was learning a lot of new libraries along the way. I was also being a smartypants and jumped ahead to Gatsby v2, which is still in beta. I ended up writing and rewriting a lot of throwaway code as the beta still had a ton of moving parts and bugs. However, the Gatsby community is very active and has been very helpful in helping me get through the blockers. Thanks guys!&lt;/p&gt;
-&lt;p&gt;I will probably be writing more about the development process later. In the meantime, if you’re curious you can check out the code on GitHub: &lt;a href=&quot;https://github.com/nopjia/gatsby-blog&quot;&gt;https://github.com/nopjia/gatsby-blog&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hire]]></title><description><![CDATA[Hire need a graphics guy? Looking for hand-crafted, high-end, interactive 3D experiences for your website or product? I’m available for…]]></description><link>https://www.iamnop.com//hire/</link><guid isPermaLink="false">https://www.iamnop.com//hire/</guid><pubDate>Sat, 04 Aug 2018 01:35:46 GMT</pubDate><content:encoded>&lt;h1&gt;Hire&lt;/h1&gt;
+&lt;p&gt;I will probably be writing more about the development process later. In the meantime, if you’re curious you can check out the code on GitHub: &lt;a href=&quot;https://github.com/nopjia/gatsby-blog&quot;&gt;https://github.com/nopjia/gatsby-blog&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hire]]></title><description><![CDATA[Hire need a graphics guy? Looking for hand-crafted, high-end, interactive 3D experiences for your website or product? I’m available for…]]></description><link>https://www.iamnop.com/hire/</link><guid isPermaLink="false">https://www.iamnop.com/hire/</guid><pubDate>Sat, 04 Aug 2018 01:35:46 GMT</pubDate><content:encoded>&lt;h1&gt;Hire&lt;/h1&gt;
 &lt;h2&gt;need a graphics guy?&lt;/h2&gt;
 &lt;p&gt;Looking for hand-crafted, high-end, interactive 3D experiences for your website or product? I’m available for freelance and consulting work.
 Based in San Francisco Bay Area.
@@ -63,155 +59,139 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;3D Tools:&lt;/strong&gt; Maya, MEL, Python, Unity&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Design:&lt;/strong&gt; Photoshop, Illustrator, InDesign&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Download my &lt;a href=&quot;https://www.iamnop.com/jiarathanakul.pdf&quot;&gt;resume&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[9 Satra]]></title><description><![CDATA[Caught the very last showing of  9 Satra  yesterday, and oh my god am I glad I did. This movie exceeded all my expectations. Action-packed…]]></description><link>https://www.iamnop.com//posts/2018-02-07-9-satra</link><guid isPermaLink="false">https://www.iamnop.com//posts/2018-02-07-9-satra</guid><pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
-  &lt;a
+&lt;p&gt;Download my &lt;a href=&quot;https://www.iamnop.com/jiarathanakul.pdf&quot;&gt;resume&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[9 Satra]]></title><description><![CDATA[Caught the very last showing of 9 Satra yesterday, and oh my god am I glad I did. This movie exceeded all my expectations. Action-packed…]]></description><link>https://www.iamnop.com/posts/2018-02-07-9-satra</link><guid isPermaLink="false">https://www.iamnop.com/posts/2018-02-07-9-satra</guid><pubDate>Wed, 07 Feb 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 700px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/poster-1fa81465963f4a4ef885ade4463afadb-48360.jpg&quot;
+    href=&quot;/static/1fa81465963f4a4ef885ade4463afadb/bd958/poster.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 144.42877291960508%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQL/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAHNRY4vMOxC2rD6KYJEf//EAB0QAAICAQUAAAAAAAAAAAAAAAECAAMREBITIUH/2gAIAQEAAQUCUCemKhK8Qww7pNagtXHxuhY6f//EABgRAAIDAAAAAAAAAAAAAAAAAAASARAR/9oACAEDAQE/AUMHmv/EABYRAQEBAAAAAAAAAAAAAAAAABASAf/aAAgBAgEBPwGicP/EABwQAAEDBQAAAAAAAAAAAAAAABEAARASICExQf/aAAgBAQAGPwKWAWINTlPwrZs//8QAGxABAAMBAQEBAAAAAAAAAAAAAQARMSFBUYH/2gAIAQEAAT8hpq+eRt1wh7zpE1q95kGfDW/T8mVcgqn7ohBW/UMICqq+1BRiNY7P/9oADAMBAAIAAwAAABDYPE//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREx/9oACAEDAQE/EL0pEZMQ3Wf/xAAYEQEBAQEBAAAAAAAAAAAAAAABABEhMf/aAAgBAgEBPxBPlu22q9gv/8QAHhABAQEAAgMAAwAAAAAAAAAAAREAITFRYXFBgeH/2gAIAQEAAT8QIe0WHhPeoJypTg1bNDh3U7MJYe3+aaoKbW8nhpdsJ3lSdEd3zXljCh937xBxBBFwjn8XCAifcZFd/9k=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 144.57142857142858%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABzUWOLzBghZVhdlMEin//xAAcEAEBAAICAwAAAAAAAAAAAAABAgADEBESIUH/2gAIAQEAAQUCkM+pkwsmoSj3pdcjWvL68saeP//EABgRAAIDAAAAAAAAAAAAAAAAAAASARAR/9oACAEDAQE/AUMHmv/EABYRAQEBAAAAAAAAAAAAAAAAABASAf/aAAgBAgEBPwGicP/EABwQAAICAgMAAAAAAAAAAAAAAAARARASISAxQf/aAAgBAQAGPwKtEJGqecsnxnb4f//EABsQAQACAwEBAAAAAAAAAAAAAAEAESExQVGR/9oACAEBAAE/IaavORt2wSx8RNaveNRRg1s78lVXkFUe6IS1ukQ0QHCr2oKMR2O5/9oADAMBAAIAAwAAABDbPnz/xAAXEQEBAQEAAAAAAAAAAAAAAAARAQAx/9oACAEDAQE/EGOUwhya1u//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oACAECAQE/EE8t221WC//EAB4QAQADAQADAAMAAAAAAAAAAAEAESExQVFhcYHh/9oACAEBAAE/ECDti6OJ9lwmrphNnSJydmiVX1/k4kF3Wa8npAu9FRAjUjt+INimgft+40MgQUgjfFwYFJXuGumf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;9 Satra&quot;
-        title=&quot;&quot;
-        src=&quot;/static/poster-1fa81465963f4a4ef885ade4463afadb-a3725.jpg&quot;
-        srcset=&quot;/static/poster-1fa81465963f4a4ef885ade4463afadb-28f0f.jpg 175w,
-/static/poster-1fa81465963f4a4ef885ade4463afadb-af723.jpg 350w,
-/static/poster-1fa81465963f4a4ef885ade4463afadb-a3725.jpg 700w,
-/static/poster-1fa81465963f4a4ef885ade4463afadb-48360.jpg 709w&quot;
+        title=&quot;9 Satra&quot;
+        src=&quot;/static/1fa81465963f4a4ef885ade4463afadb/29d31/poster.jpg&quot;
+        srcset=&quot;/static/1fa81465963f4a4ef885ade4463afadb/e52aa/poster.jpg 175w,
+/static/1fa81465963f4a4ef885ade4463afadb/70ebb/poster.jpg 350w,
+/static/1fa81465963f4a4ef885ade4463afadb/29d31/poster.jpg 700w,
+/static/1fa81465963f4a4ef885ade4463afadb/bd958/poster.jpg 709w&quot;
         sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Caught the very last showing of &lt;a href=&quot;http://www.9satramovie.com/&quot;&gt;9 Satra&lt;/a&gt; yesterday, and oh my god am I glad I did. This movie exceeded all my expectations.&lt;/p&gt;
 &lt;p&gt;Action-packed fast-paced storytelling that constantly has you at the edge of your seat. Lovable fully developed side characters with their own legitimate backstory. A rich and vast world that is practically a fantasy version of Thailand. Halfway in as heroes embark on the adventure, you get a sense of excitement that it’ll be so much fun you don’t want it to end!&lt;/p&gt;
 &lt;p&gt;All the while there was an undeniable Thai-ness, but was not cheesy or oversold, as it was part of the story and supported the story. For example, the iconic Koh Tapu was our hero’s home, and the tradition of Nang Talung was used for the 2D montage. Both are from the South, the birthplace of the ancient martial art form of Muay Thai Chaiya (not to be confused with the modern sport.)&lt;/p&gt;
 &lt;p&gt;Which brings us to the best part, the Muay Thai, which was paid full respect in this movie. All the movements, the forms, fighting style throughout the movie were right on point! Being a huge martial arts fan and having practiced some Muay Chaiya myself, seeing this sacred art form come to life in a fantasy animation film was a dream come true. All those beautiful forms that I learnt by their (epic!) names being used in full force by a superhero along with his lovable friends to defeat mythological-level bad guy in fantasy-Thai-land is just &lt;em&gt;PURE AWESOME&lt;/em&gt;. All this really resonated personally, and is the real reason I loved the movie so much.&lt;/p&gt;
 &lt;p&gt;Yes the animation could be smoother, shading could be better, and they could use more motion blur, but if you can overlook the technical flaws, I’d give everything else a 10/10!&lt;/p&gt;
-&lt;p&gt;Super impressed. Loved loved loved it. I am so proud to be born Thai. ❤️🇹🇭&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Lovers in a Dangerous Spacetime]]></title><description><![CDATA[What a wonderful little  game ! One-of-a-kind game design, clever levels, fun music, and adorable trippy art that reminds you of Powerpuff…]]></description><link>https://www.iamnop.com//posts/2017-12-22-lovers-in-a-dangerous-spacetime</link><guid isPermaLink="false">https://www.iamnop.com//posts/2017-12-22-lovers-in-a-dangerous-spacetime</guid><pubDate>Fri, 22 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
-  &lt;a
+&lt;p&gt;Super impressed. Loved loved loved it. I am so proud to be born Thai. ❤️🇹🇭&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Lovers in a Dangerous Spacetime]]></title><description><![CDATA[What a wonderful little game! One-of-a-kind game design, clever levels, fun music, and adorable trippy art that reminds you of Powerpuff…]]></description><link>https://www.iamnop.com/posts/2017-12-22-lovers-in-a-dangerous-spacetime</link><guid isPermaLink="false">https://www.iamnop.com/posts/2017-12-22-lovers-in-a-dangerous-spacetime</guid><pubDate>Fri, 22 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 700px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/lovers-0ef04201518c59859d5d114a131c8fff-0d091.jpg&quot;
+    href=&quot;/static/0ef04201518c59859d5d114a131c8fff/eea4a/lovers.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/2gAMAwEAAhADEAAAAZbN7shYGj//xAAaEAEAAgMBAAAAAAAAAAAAAAABAhEAAxIh/9oACAEBAAEFAjZQ+rRkYnJJqhP/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQMC/9oACAEDAQE/AVMUMn//xAAYEQADAQEAAAAAAAAAAAAAAAAAARECMf/aAAgBAgEBPwF18Jo//8QAGRABAQADAQAAAAAAAAAAAAAAAQAQETEh/9oACAEBAAY/AuFwL3dvApf/xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhMUFRkf/aAAgBAQABPyEQ7S+2Dh5gSqGbI2AxXyAIKnqf/9oADAMBAAIAAwAAABB87//EABgRAQEAAwAAAAAAAAAAAAAAAAEAESGx/9oACAEDAQE/ED0yzKdv/8QAFhEBAQEAAAAAAAAAAAAAAAAAABFh/9oACAECAQE/EIjR/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARITFBcf/aAAgBAQABPxCya3cJcrIU8D8lfjdMY2tb9dmiCnKEvQQVG7P/2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/2gAMAwEAAhADEAAAAZbN7shYGj//xAAaEAEAAgMBAAAAAAAAAAAAAAABAhEAAxIh/9oACAEBAAEFAjZQ+rRkYnJJqhP/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQMC/9oACAEDAQE/AVMUMn//xAAYEQADAQEAAAAAAAAAAAAAAAAAARECMf/aAAgBAgEBPwF18Jo//8QAGRABAQADAQAAAAAAAAAAAAAAAQAQETEh/9oACAEBAAY/AuFwL3dvApf/xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhMUFRkf/aAAgBAQABPyEQ7S+2Dh5gSqGbI2AxXyAIKnqf/9oADAMBAAIAAwAAABB87//EABgRAQEAAwAAAAAAAAAAAAAAAAEAESGx/9oACAEDAQE/ED0yzKdv/8QAFhEBAQEAAAAAAAAAAAAAAAAAABFh/9oACAECAQE/EIjR/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARITFBcf/aAAgBAQABPxCya3cJcrIU8D8lfjdMY2tb9dmiCnKEvQQVG7P/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Lovers&quot;
-        title=&quot;&quot;
-        src=&quot;/static/lovers-0ef04201518c59859d5d114a131c8fff-a3725.jpg&quot;
-        srcset=&quot;/static/lovers-0ef04201518c59859d5d114a131c8fff-28f0f.jpg 175w,
-/static/lovers-0ef04201518c59859d5d114a131c8fff-af723.jpg 350w,
-/static/lovers-0ef04201518c59859d5d114a131c8fff-a3725.jpg 700w,
-/static/lovers-0ef04201518c59859d5d114a131c8fff-a1e15.jpg 1050w,
-/static/lovers-0ef04201518c59859d5d114a131c8fff-0d091.jpg 1280w&quot;
+        title=&quot;Lovers&quot;
+        src=&quot;/static/0ef04201518c59859d5d114a131c8fff/29d31/lovers.jpg&quot;
+        srcset=&quot;/static/0ef04201518c59859d5d114a131c8fff/e52aa/lovers.jpg 175w,
+/static/0ef04201518c59859d5d114a131c8fff/70ebb/lovers.jpg 350w,
+/static/0ef04201518c59859d5d114a131c8fff/29d31/lovers.jpg 700w,
+/static/0ef04201518c59859d5d114a131c8fff/9ecec/lovers.jpg 1050w,
+/static/0ef04201518c59859d5d114a131c8fff/eea4a/lovers.jpg 1280w&quot;
         sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;What a wonderful little &lt;a href=&quot;http://www.loversinadangerousspacetime.com/&quot;&gt;game&lt;/a&gt;! One-of-a-kind game design, clever levels, fun music, and adorable trippy art that reminds you of Powerpuff Girls!&lt;/p&gt;
-&lt;p&gt;It was the best use of the co-op format that I’ve ever seen. You &lt;em&gt;really&lt;/em&gt; had to work together as a &lt;em&gt;team&lt;/em&gt; to succeed. Played this with my girlfriend and her brother and we had an absolute blast! Never had more fun playing a co-op game (and I grew up playing co-op games.) Highly recommended. Out on Nintendo Switch now. Grab a buddy or two and get this game. No wonder it’s a solid 10/10 on Steam!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why I'm Not Playing Pokémon Go]]></title><description><![CDATA[People have been asking why I’m not playing  Pokémon Go . And after a few discussions like this, I decided to write a little post. The core…]]></description><link>https://www.iamnop.com//posts/2016-07-16-why-im-not-playing-pokmon-go</link><guid isPermaLink="false">https://www.iamnop.com//posts/2016-07-16-why-im-not-playing-pokmon-go</guid><pubDate>Sat, 16 Jul 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
-  &lt;a
+&lt;p&gt;It was the best use of the co-op format that I’ve ever seen. You &lt;em&gt;really&lt;/em&gt; had to work together as a &lt;em&gt;team&lt;/em&gt; to succeed. Played this with my girlfriend and her brother and we had an absolute blast! Never had more fun playing a co-op game (and I grew up playing co-op games.) Highly recommended. Out on Nintendo Switch now. Grab a buddy or two and get this game. No wonder it’s a solid 10/10 on Steam!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why I'm Not Playing Pokémon Go]]></title><description><![CDATA[People have been asking why I’m not playing Pokémon Go. And after a few discussions like this, I decided to write a little post. The core…]]></description><link>https://www.iamnop.com/posts/2016-07-16-why-im-not-playing-pokmon-go</link><guid isPermaLink="false">https://www.iamnop.com/posts/2016-07-16-why-im-not-playing-pokmon-go</guid><pubDate>Sat, 16 Jul 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 640px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/pokemon-sun-moon-a7e95fc8434a0c22bb02f454f015a657-86582.jpg&quot;
+    href=&quot;/static/a7e95fc8434a0c22bb02f454f015a657/c08c5/pokemon-sun-moon.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 640px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 70.78125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB6nzaY42J/8QAGxABAAICAwAAAAAAAAAAAAAAAgEDABESEyH/2gAIAQEAAQUCvTm+XvAvLBIv68B4n//EABURAQEAAAAAAAAAAAAAAAAAABAx/9oACAEDAQE/Aaf/xAAWEQADAAAAAAAAAAAAAAAAAAABECH/2gAIAQIBAT8BMX//xAAaEAACAwEBAAAAAAAAAAAAAAACEQABEBIx/9oACAEBAAY/AhEDU5v3GVtxvP/EABkQAAMBAQEAAAAAAAAAAAAAAAABESFBMf/aAAgBAQABPyF2JV7BTUqdL7rjh0OHgmvRmQf/2gAMAwEAAgADAAAAEPDf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAEDAQE/EABGX//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxBOJ//EABsQAQACAwEBAAAAAAAAAAAAAAERIQAxQVFh/9oACAEBAAE/EDIDXl9TyMhVtMkJOcydJljGdlXtvT81j0gCMjeEe9qszOf/2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.85714285714285%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAgT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB6nzaY42J/8QAHBABAAIBBQAAAAAAAAAAAAAAAgEDAAQREhMh/9oACAEBAAEFAr05vl74F5YZOo68B4n/xAAVEQEBAAAAAAAAAAAAAAAAAAAQMf/aAAgBAwEBPwGn/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAh/9oACAECAQE/ATF//8QAGhAAAgMBAQAAAAAAAAAAAAAAAhEAARASMf/aAAgBAQAGPwIRA1Ob9xlbcbz/xAAaEAEAAwADAAAAAAAAAAAAAAABABEhMUHB/9oACAEBAAE/IWhE5r2ErLMv3bTFWoXIK+xmRP/aAAwDAQACAAMAAAAQ0B//xAAWEQEBAQAAAAAAAAAAAAAAAAABADH/2gAIAQMBAT8QAEZf/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/EE4n/8QAHBABAQACAgMAAAAAAAAAAAAAAREAMSFBUXGh/9oACAEBAAE/EDQDx6t2PEyKvIWocddZdLIWZXKQ1pdetY1IA2m/uEe9VVbc/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Pokemon Sun Moon&quot;
-        title=&quot;&quot;
-        src=&quot;/static/pokemon-sun-moon-a7e95fc8434a0c22bb02f454f015a657-86582.jpg&quot;
-        srcset=&quot;/static/pokemon-sun-moon-a7e95fc8434a0c22bb02f454f015a657-000c9.jpg 175w,
-/static/pokemon-sun-moon-a7e95fc8434a0c22bb02f454f015a657-cc00a.jpg 350w,
-/static/pokemon-sun-moon-a7e95fc8434a0c22bb02f454f015a657-86582.jpg 640w&quot;
+        title=&quot;Pokemon Sun Moon&quot;
+        src=&quot;/static/a7e95fc8434a0c22bb02f454f015a657/c08c5/pokemon-sun-moon.jpg&quot;
+        srcset=&quot;/static/a7e95fc8434a0c22bb02f454f015a657/e52aa/pokemon-sun-moon.jpg 175w,
+/static/a7e95fc8434a0c22bb02f454f015a657/70ebb/pokemon-sun-moon.jpg 350w,
+/static/a7e95fc8434a0c22bb02f454f015a657/c08c5/pokemon-sun-moon.jpg 640w&quot;
         sizes=&quot;(max-width: 640px) 100vw, 640px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;People have been asking why I’m not playing &lt;a href=&quot;https://www.pokemongo.com/&quot;&gt;Pokémon Go&lt;/a&gt;. And after a few discussions like this, I decided to write a little post.&lt;/p&gt;
 &lt;p&gt;The core Pokémon game is about training your Pokémon, leveling them up, learning new moves, evolving, and forming the perfect team. The result is you form a special bond with your Pokémon since you spent so much time with them that you even feel bad when you put one of your mains in the PC! This is the core essence that makes Pokémon so special and dear to our hearts.&lt;/p&gt;
 &lt;p&gt;Pokémon Go is basically a stripped down version of &lt;a href=&quot;https://www.ingress.com/&quot;&gt;Ingress&lt;/a&gt;, where our beloved Pokémon are reduced to mere commodity. Here, you walk around, collect a dozen Zubats, once you have enough you then “dust” them and turn them into something better. This is a core loop of a card battle game with their hundreds of Chinese knockoffs. The familiar turn-based battle system is instead replaced with a mash-your-finger-at-the-screen-until-someone-dies that is common to a lot of mobile battle games. Unlike Ingress which has a truly unique and engaging location based core loop, Pokémon Go is but a shadow of its precursor with a bunch of mobile-gamey type gimmicks thrown together to artificially keep users engaged and paying.&lt;/p&gt;
 &lt;p&gt;The original Pokémon game is already perfect as a location based game: patches of tall grass, water, gyms, PokéCenters and PokéMarts. Sure there might have to be a few tweaks if you want a faster paced game to encourage walking, if that is the goal. But why completely reinvent the game when you already have something that has been tried and tested for two decades?&lt;/p&gt;
 &lt;p&gt;As one of the biggest Pokémon fans, I couldn’t be more excited for Pokémon Go. It had so much potential. Not only is this the &lt;a href=&quot;https://pokemmo.eu/&quot;&gt;Pokémon MMO&lt;/a&gt; we’ve all been waiting for, it is an opportunity for us all to finally live out our childhood dreams in the real world.&lt;/p&gt;
-&lt;p&gt;Yes, I understand Niantic is a small company trying to turn this around in a couple of years, but to be given half-assed of a mobile game with the official Pokémon brand, I feel almost betrayed. This should’ve been a 5-10 year project, a joint effort, but mainly overseen by the devs at Gamefreak, with decades of expertise churning out polished game after game. Nintendo was desperate to enter the mobile market, and Go was their savoir. In my opinion, they should’ve protected their brand better and made a more complete of a game. But seeing how successful Go was, I am happy for them and what it means for the continued popularity of Pokémon. Pokémon is truly a part of my childhood, and for someone like me, I hope that Pokémon Go’s tremendous success will someday lead to that game I’ve been wishing for.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Transistor]]></title><description><![CDATA[Transistor . I am speechless. In fact, it left me crying by the end credits. What a perfectly crafted game: the art, the gameplay, and—woah…]]></description><link>https://www.iamnop.com//posts/2015-06-30-transistor</link><guid isPermaLink="false">https://www.iamnop.com//posts/2015-06-30-transistor</guid><pubDate>Tue, 30 Jun 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
-  &lt;a
+&lt;p&gt;Yes, I understand Niantic is a small company trying to turn this around in a couple of years, but to be given half-assed of a mobile game with the official Pokémon brand, I feel almost betrayed. This should’ve been a 5-10 year project, a joint effort, but mainly overseen by the devs at Gamefreak, with decades of expertise churning out polished game after game. Nintendo was desperate to enter the mobile market, and Go was their savoir. In my opinion, they should’ve protected their brand better and made a more complete of a game. But seeing how successful Go was, I am happy for them and what it means for the continued popularity of Pokémon. Pokémon is truly a part of my childhood, and for someone like me, I hope that Pokémon Go’s tremendous success will someday lead to that game I’ve been wishing for.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Transistor]]></title><description><![CDATA[Transistor. I am speechless. In fact, it left me crying by the end credits. What a perfectly crafted game: the art, the gameplay, and—woah…]]></description><link>https://www.iamnop.com/posts/2015-06-30-transistor</link><guid isPermaLink="false">https://www.iamnop.com/posts/2015-06-30-transistor</guid><pubDate>Tue, 30 Jun 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 700px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/transistor-78c49159ff71255a7f2dd8a1980bc290-e9ee8.jpg&quot;
+    href=&quot;/static/78c49159ff71255a7f2dd8a1980bc290/6a068/transistor.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 55.41666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAY2vdOyUYr//xAAaEAACAwEBAAAAAAAAAAAAAAAAAQIDERAx/9oACAEBAAEFAsJxzlZZJsXn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGBAAAwEBAAAAAAAAAAAAAAAAARAhABH/2gAIAQEABj8C3QI6V//EABoQAAIDAQEAAAAAAAAAAAAAAAABESExUWH/2gAIAQEAAT8hayo0XaKF+Mjioxi3hrjMD//aAAwDAQACAAMAAAAQND//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8Qta//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxAVZ//EABwQAQACAgMBAAAAAAAAAAAAAAEAESExUZGh0f/aAAgBAQABPxBAeG2HFEgnUzUVVka3K4KAKsNYfhA6MXS4jQharmf/2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.42857142857143%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAY2vdOyUYr//xAAaEAACAwEBAAAAAAAAAAAAAAAAAQIDERAx/9oACAEBAAEFAsJxzlZZJsXn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGBAAAwEBAAAAAAAAAAAAAAAAARAhABH/2gAIAQEABj8C3QI6V//EABoQAAIDAQEAAAAAAAAAAAAAAAABESExUWH/2gAIAQEAAT8hayo0XaKF+Mjioxi3hrjMD//aAAwDAQACAAMAAAAQND//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8Qta//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxAVZ//EABwQAQACAgMBAAAAAAAAAAAAAAEAESExUZGh0f/aAAgBAQABPxBAeG2HFEgnUzUVVka3K4KAKsNYfhA6MXS4jQharmf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Transistor&quot;
-        title=&quot;&quot;
-        src=&quot;/static/transistor-78c49159ff71255a7f2dd8a1980bc290-a3725.jpg&quot;
-        srcset=&quot;/static/transistor-78c49159ff71255a7f2dd8a1980bc290-28f0f.jpg 175w,
-/static/transistor-78c49159ff71255a7f2dd8a1980bc290-af723.jpg 350w,
-/static/transistor-78c49159ff71255a7f2dd8a1980bc290-a3725.jpg 700w,
-/static/transistor-78c49159ff71255a7f2dd8a1980bc290-e9ee8.jpg 960w&quot;
+        title=&quot;Transistor&quot;
+        src=&quot;/static/78c49159ff71255a7f2dd8a1980bc290/29d31/transistor.jpg&quot;
+        srcset=&quot;/static/78c49159ff71255a7f2dd8a1980bc290/e52aa/transistor.jpg 175w,
+/static/78c49159ff71255a7f2dd8a1980bc290/70ebb/transistor.jpg 350w,
+/static/78c49159ff71255a7f2dd8a1980bc290/29d31/transistor.jpg 700w,
+/static/78c49159ff71255a7f2dd8a1980bc290/6a068/transistor.jpg 960w&quot;
         sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.supergiantgames.com/games/transistor/&quot;&gt;Transistor&lt;/a&gt;. I am speechless. In fact, it left me crying by the end credits.&lt;/p&gt;
-&lt;p&gt;What a perfectly crafted game: the art, the gameplay, and—woah—the storytelling. Every aspect was perfect, each given its own unique treatment. Yet, they were all tied together by a dominant theme so strong the whole thing seemed almost more of an “experience” than a “game”. The ending was so powerful it leaves you with that lingering feeling you get after reading a good novel. Transistor was one of the best gaming experience I’ve ever had. It will surely stick with me for a while.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[WebGL GPU Particles]]></title><description><![CDATA[Weekend project I started about a month ago, a WebGL GPU particle simulator, simulating 1 million particles at 60 fps! Live code:  http…]]></description><link>https://www.iamnop.com//posts/2014-06-08-webgl-gpu-particles</link><guid isPermaLink="false">https://www.iamnop.com//posts/2014-06-08-webgl-gpu-particles</guid><pubDate>Sun, 08 Jun 2014 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Weekend project I started about a month ago, a WebGL GPU particle simulator, simulating 1 million particles at 60 fps!&lt;/p&gt;
+&lt;p&gt;What a perfectly crafted game: the art, the gameplay, and—woah—the storytelling. Every aspect was perfect, each given its own unique treatment. Yet, they were all tied together by a dominant theme so strong the whole thing seemed almost more of an “experience” than a “game”. The ending was so powerful it leaves you with that lingering feeling you get after reading a good novel. Transistor was one of the best gaming experience I’ve ever had. It will surely stick with me for a while.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[WebGL GPU Particles]]></title><description><![CDATA[Weekend project I started about a month ago, a WebGL GPU particle simulator, simulating 1 million particles at 60 fps! WebGL GPU Particles…]]></description><link>https://www.iamnop.com/posts/2014-06-08-webgl-gpu-particles</link><guid isPermaLink="false">https://www.iamnop.com/posts/2014-06-08-webgl-gpu-particles</guid><pubDate>Sun, 08 Jun 2014 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Weekend project I started about a month ago, a WebGL GPU particle simulator, simulating 1 million particles at 60 fps!&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/portfolio/webglparticles_1.png&quot; alt=&quot;WebGL GPU Particles&quot;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -240,151 +220,135 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
 &lt;li&gt;Enable “WebGL Draft Extensions” (chrome://flags/#enable-webgl-draft-extensions)&lt;/li&gt;
 &lt;li&gt;For Windows, you might also need to enable D3D11 (chrome://flags/#enable-d3d11)&lt;/li&gt;
 &lt;li&gt;If it doesn’t work, try again with Firefox? I’m sorry but I promise I will add support for no extension soon!&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Mac, the Windows Way]]></title><description><![CDATA[I’ve been a Windows user all my life, but I have to admit, Macs are great computers. The hardware is absolutely gorgeous, and the software…]]></description><link>https://www.iamnop.com//posts/2013-10-25-mac-the-windows-way</link><guid isPermaLink="false">https://www.iamnop.com//posts/2013-10-25-mac-the-windows-way</guid><pubDate>Fri, 25 Oct 2013 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I’ve been a Windows user all my life, but I have to admit, Macs are great computers. The hardware is absolutely gorgeous, and the software experience is cohesive and smooth. They also make a great development environment thanks to the Unix system. (There are of course many other things to say about Macs, but I’ll let the fanboys sing the praise.)&lt;/p&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Mac, the Windows Way]]></title><description><![CDATA[I’ve been a Windows user all my life, but I have to admit, Macs are great computers. The hardware is absolutely gorgeous, and the software…]]></description><link>https://www.iamnop.com/posts/2013-10-25-mac-the-windows-way</link><guid isPermaLink="false">https://www.iamnop.com/posts/2013-10-25-mac-the-windows-way</guid><pubDate>Fri, 25 Oct 2013 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I’ve been a Windows user all my life, but I have to admit, Macs are great computers. The hardware is absolutely gorgeous, and the software experience is cohesive and smooth. They also make a great development environment thanks to the Unix system. (There are of course many other things to say about Macs, but I’ll let the fanboys sing the praise.)&lt;/p&gt;
 &lt;p&gt;When I was presented with the choice of Mac or Windows at my new job, I bit the bullet and took a Mac. I said “bit the bullet” because despite all the things I said, &lt;strong&gt;I absolutely hate Mac keyboard shortcuts.&lt;/strong&gt; I simply cannot deal with the ⌘. Why am I hitting hotkeys with my thumb when it’s supposed to be at home resting on the spacebar? And what is that Fn key doing in the bottom left corner, one of the most valuable spots on the keyboard? Also, why does hitting Enter on a file rename it instead of opening it? I can go on. I’m sure the smart folks at Apple could easily fix some of these, but for the sake of being different, they have to have it their way. Such is marketing.&lt;/p&gt;
 &lt;p&gt;So, for the past couple weeks, I’ve embarked on a journey to make my Mac behave more sensibly like Windows. And recently, I’ve reached a point where I feel like I have triumphed, and I would like to share some of those findings.&lt;/p&gt;
 &lt;p&gt;Here we go.&lt;/p&gt;
 &lt;h1&gt;How to Use Your Mac like Windows&lt;/h1&gt;
 &lt;h2&gt;First Things First&lt;/h2&gt;
 &lt;p&gt;Do it. Swap those Cmd and Ctrl keys.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 700px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-2ade2.png&quot;
+    href=&quot;/static/382e8a12efa107e2f9c3cd245dc558e1/a1792/settings1.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 88.84615384615384%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAAsSAAALEgHS3X78AAACsklEQVQ4y6WUyW4UMRCGh0XixBtwSsiAcuCAlBbiEYCHQ+IK4sA75EwCgYAmM93J9L7vy0xmy2zpjruocjI5sCQELJXKdrs+/66yu9HAJrZbD45au881Rd3yXF/QVE0QO4dCpy0JkngkfNn7Knza/cznzudFwbZcgdbalk0xz1RF3Wys2vdv+2+K2IHAD06zLGdxHDPbdphpWsyybCZ3FXZ02GWWaXMzDYtlacqKPGdZllXT6RR03egg6i4HHhy035XVGSRJUqVJAnmeAUIB4dDv96Ho9aAoChxn6LGP37VkBlbYgyyN2WRyAqhUQdT9C+DB2+n0BDzPK8MwrIMgqE3T5Oa6bm2gR8W14zh1FEV1FPp1fzCu0yyvPc89o01xrfwTcErACmFcSRwnNAYEcu/5PuBmMBxNIOmfwGI+gxzXuZ53NZCCFosFVFXFwQSk46dpijn2ICpGsO+VsFwu+HfvWiAqnM1mQGPHdmghkGqCRmEAvfESPhoLvmn6N8DgAjiZjDnEx6OSEgrq9woYTZegJ3Ooy/n5Ca4DYtIRNoEcq9rD6s7nc378sixhNBrBeDSEbbWCD20GTlRgGqgox78HoprKdRwwDANs2wZDP/dkpJQ8Vhok1YW2jOtMC9Ph/1khAami3W4XFEUBUZR4X5IkkBWZz8myDIamYn7NVX6vrzJVVlVV0DQNX4DOjcarPqkMw4hfIxRxtUIqSojVpFxSAFlEhuOV0RpKwYX/FdhqtfhLwdyd6obB8GUw1/UYBjNUzRzHZqiMz2vofT/g3/AEzLSsajgcUmz3Eog5eg/Y8L3Wg8EAbmJ0E07xBrier18Cd3Z2XmNeSEUPdxrezPRj/CMtOqK0twLeWltbe9xsNl+sr6+//Bfb2Hj46lFzYwtZ9xqYCw5Fu/Ofdvvpk83GD630EKAIY+m8AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 88.57142857142857%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAAsSAAALEgHS3X78AAACsklEQVQ4y6WUyW4UMRCGh0XixBtwSsiAcuCAlBbiEYCHQ+IK4sA75EwCgYAmM93J9L7vy0xmy2zpjruocjI5sCQELJXKdrs+/66yu9HAJrZbD45au881Rd3yXF/QVE0QO4dCpy0JkngkfNn7Knza/cznzudFwbZcgdbalk0xz1RF3Wys2vdv+2+K2IHAD06zLGdxHDPbdphpWsyybCZ3FXZ02GWWaXMzDYtlacqKPGdZllXT6RR03egg6i4HHhy035XVGSRJUqVJAnmeAUIB4dDv96Ho9aAoChxn6LGP37VkBlbYgyyN2WRyAqhUQdT9C+DB2+n0BDzPK8MwrIMgqE3T5Oa6bm2gR8W14zh1FEV1FPp1fzCu0yyvPc89o01xrfwTcErACmFcSRwnNAYEcu/5PuBmMBxNIOmfwGI+gxzXuZ53NZCCFosFVFXFwQSk46dpijn2ICpGsO+VsFwu+HfvWiAqnM1mQGPHdmghkGqCRmEAvfESPhoLvmn6N8DgAjiZjDnEx6OSEgrq9woYTZegJ3Ooy/n5Ca4DYtIRNoEcq9rD6s7nc378sixhNBrBeDSEbbWCD20GTlRgGqgox78HoprKdRwwDANs2wZDP/dkpJQ8Vhok1YW2jOtMC9Ph/1khAami3W4XFEUBUZR4X5IkkBWZz8myDIamYn7NVX6vrzJVVlVV0DQNX4DOjcarPqkMw4hfIxRxtUIqSojVpFxSAFlEhuOV0RpKwYX/FdhqtfhLwdyd6obB8GUw1/UYBjNUzRzHZqiMz2vofT/g3/AEzLSsajgcUmz3Eog5eg/Y8L3Wg8EAbmJ0E07xBrier18Cd3Z2XmNeSEUPdxrezPRj/CMtOqK0twLeWltbe9xsNl+sr6+//Bfb2Hj46lFzYwtZ9xqYCw5Fu/Ofdvvpk83GD630EKAIY+m8AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Swap Cmd and Ctrl keys&quot;
-        title=&quot;&quot;
-        src=&quot;/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-55803.png&quot;
-        srcset=&quot;/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-551ed.png 175w,
-/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-1aa07.png 350w,
-/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-55803.png 700w,
-/static/settings1-382e8a12efa107e2f9c3cd245dc558e1-2ade2.png 780w&quot;
+        title=&quot;Swap Cmd and Ctrl keys&quot;
+        src=&quot;/static/382e8a12efa107e2f9c3cd245dc558e1/8c557/settings1.png&quot;
+        srcset=&quot;/static/382e8a12efa107e2f9c3cd245dc558e1/4edbd/settings1.png 175w,
+/static/382e8a12efa107e2f9c3cd245dc558e1/13ae7/settings1.png 350w,
+/static/382e8a12efa107e2f9c3cd245dc558e1/8c557/settings1.png 700w,
+/static/382e8a12efa107e2f9c3cd245dc558e1/a1792/settings1.png 780w&quot;
         sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;If you’re using a Windows keyboard, your settings will instead look like this:&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 700px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-2ade2.png&quot;
+    href=&quot;/static/2f010aa2dc285f6bd37e711550d3cab8/a1792/settings2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 88.84615384615384%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAAsSAAALEgHS3X78AAACu0lEQVQ4y6VUy27UMBQdHhIr/oBVSwfUBQukRohPAD4OiS2IBf/AmhYKBU1nJp3Jy07iJJPJa97pvFPncu12uuDR8rB0dGP7+vj4XDuVCrZmvXavVTt4aurGnsd8xTRMpdk4URp1VVHVlvL58Ivy8eCT0mhgv9mScGymMMx1bEeseWLoxm5l0759PXqVdV0I/GCVJCnvdrvccVxOqc1t6nCtrfPWSZvbtsMpodw0CU/imGdpypMkKabTKVgWaSDVbUl4fFx/sy7OIIqiIo4iSNMEkBRjCoPBQMYsy8Q85HkOZ8UKSLIAGmSQxF2e56eASnWkuntBePx6Oj0Fz/PWnU6nDIKgpJRKMMZKQmiJiiWQtEzjqOyP8jJO0tLz2Fm/3wfM1X4gnArCAskAj4EKI9EHlzEZPd8H3AyG4wl0ezks5jNIMY953tWEYtFisYCiKCQxKpTHj+MYPfYgzMZw5K1huVzIee9aQlQ4m81A9F3HFYng45jwL+wE0Jss4QNZyk3jPyEMLgjzfCKV+XhUoaTX60G/l8F4ugQrmkO5np+f4DrCMAxlJVOsqiCZz+fy+Ov1GsbjMUzGI3hvFPCuzsENM7RBFGXwa0JUUzDXBUIIOI4DxDqPAkKpiC7OqwaDuoZ51IYg8H+vUBCKirbbbdB1HZpNVX6rqgqarskxTdOAmAb6S6W/aNH1VRaVNQwDTNPEF2BJiP7mW6jsdEJ5jVDE1QpFUTpYTeGlWCAQCmB/A5EjLLiIPxPWajX5UtC7lUUIJ5RyxjyOizmq5q7rcFQmx02Mvh/IOTwBp7ZdjEYjsbZ9SYgevQVs+F7L4XAIfwNxE1Z4A5jnW5eE+/v7L9EXoaKHO43+DtYA/0KLRlM93BDe2NraelitVp9tb28//xfs7Nx/8aC6s4dcdyrohSRF3PpP3Hz8aLfyHUEWEPNBP6E0AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 88.57142857142857%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAAsSAAALEgHS3X78AAACu0lEQVQ4y6VUy27UMBQdHhIr/oBVSwfUBQukRohPAD4OiS2IBf/AmhYKBU1nJp3Jy07iJJPJa97pvFPncu12uuDR8rB0dGP7+vj4XDuVCrZmvXavVTt4aurGnsd8xTRMpdk4URp1VVHVlvL58Ivy8eCT0mhgv9mScGymMMx1bEeseWLoxm5l0759PXqVdV0I/GCVJCnvdrvccVxOqc1t6nCtrfPWSZvbtsMpodw0CU/imGdpypMkKabTKVgWaSDVbUl4fFx/sy7OIIqiIo4iSNMEkBRjCoPBQMYsy8Q85HkOZ8UKSLIAGmSQxF2e56eASnWkuntBePx6Oj0Fz/PWnU6nDIKgpJRKMMZKQmiJiiWQtEzjqOyP8jJO0tLz2Fm/3wfM1X4gnArCAskAj4EKI9EHlzEZPd8H3AyG4wl0ezks5jNIMY953tWEYtFisYCiKCQxKpTHj+MYPfYgzMZw5K1huVzIee9aQlQ4m81A9F3HFYng45jwL+wE0Jss4QNZyk3jPyEMLgjzfCKV+XhUoaTX60G/l8F4ugQrmkO5np+f4DrCMAxlJVOsqiCZz+fy+Ov1GsbjMUzGI3hvFPCuzsENM7RBFGXwa0JUUzDXBUIIOI4DxDqPAkKpiC7OqwaDuoZ51IYg8H+vUBCKirbbbdB1HZpNVX6rqgqarskxTdOAmAb6S6W/aNH1VRaVNQwDTNPEF2BJiP7mW6jsdEJ5jVDE1QpFUTpYTeGlWCAQCmB/A5EjLLiIPxPWajX5UtC7lUUIJ5RyxjyOizmq5q7rcFQmx02Mvh/IOTwBp7ZdjEYjsbZ9SYgevQVs+F7L4XAIfwNxE1Z4A5jnW5eE+/v7L9EXoaKHO43+DtYA/0KLRlM93BDe2NraelitVp9tb28//xfs7Nx/8aC6s4dcdyrohSRF3PpP3Hz8aLfyHUEWEPNBP6E0AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Swap Cmd and Ctrl keys Windows keyboard&quot;
-        title=&quot;&quot;
-        src=&quot;/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-55803.png&quot;
-        srcset=&quot;/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-551ed.png 175w,
-/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-1aa07.png 350w,
-/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-55803.png 700w,
-/static/settings2-2f010aa2dc285f6bd37e711550d3cab8-2ade2.png 780w&quot;
+        title=&quot;Swap Cmd and Ctrl keys Windows keyboard&quot;
+        src=&quot;/static/2f010aa2dc285f6bd37e711550d3cab8/8c557/settings2.png&quot;
+        srcset=&quot;/static/2f010aa2dc285f6bd37e711550d3cab8/4edbd/settings2.png 175w,
+/static/2f010aa2dc285f6bd37e711550d3cab8/13ae7/settings2.png 350w,
+/static/2f010aa2dc285f6bd37e711550d3cab8/8c557/settings2.png 700w,
+/static/2f010aa2dc285f6bd37e711550d3cab8/a1792/settings2.png 780w&quot;
         sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;Karabiner&lt;/h2&gt;
 &lt;p&gt;Link: &lt;a href=&quot;https://pqrs.org/osx/karabiner/&quot;&gt;https://pqrs.org/osx/karabiner/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This is where the magic happens. This is a powerful tool to remap your keyboard, and we’ll be using this to map most things to the Windows style. (Technically, the Cmd and Ctrl swap from above can be done here as well, but I was having issues when I tried it and not all mappings work as expected.) Here is my setup:&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 578px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-a10fe.png&quot;
+    href=&quot;/static/a9f4070e5023a598c01cc5a7303cd1aa/508ef/karabiner1.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 578px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 82.8719723183391%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAIAAABSJhvpAAAACXBIWXMAAAsSAAALEgHS3X78AAAB20lEQVQ4y31T27KbIBT1/z+pfexMHzs90yQiUQRBEG/R4CXHJNplejrTzklcY9AJbNZlg1eUhc9SlaZSJiJJ8BGxOEmSpm2naXrfhNf3/Ve/+/GLUBqEIQpjeqRCJIyxcRwvm/CqsnyjKooFkOe5c65pmvP53DTtMAzjJry+674cHJiDgPiEHMNjQAg22u12bdtC2xZzWZYRT6VSWZZ1XQcXbn3h5/oe3MNWceecr0fGZRxFlB4FF0FAoygikBIEu8M+Lwoo7J/BK4qCiVRrLaWMOUfOZ7dyu39GkLz0/D10JFzLEDXy5pxLqfAYY2Qi8U9RljD/OT+vrutve/22J3HMjMlSbWxmzYoM4a/1Sp1OJ/T8c+c8TPyMShoypRTs5blFTWYxWgi+PgDa57LB7Ad0d/AZi8GGDn8s/Zvzn3XP00ZodV2liYBLjpMFlSrNrdWphqjHJi/hTdN1WRZa3JjMpEq44Fqb9/dpXpZ5xrCFlfl2nfLzZIs6MwaGrbXg7PtuGIfrtHp+dUO8U9OMvSO6I6Eg/gFn08fZWLH3fWKMjmOOHcGBONz/8OB7me+mnYQyKS7m2mCJVfN9/iC8XGDt9gweZuFONTdbNae6wiWrygoT9wfmB+4v8BtPUbtev59vdwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 82.85714285714286%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAIAAABSJhvpAAAACXBIWXMAAAsSAAALEgHS3X78AAAB20lEQVQ4y31T27KbIBT1/z+pfexMHzs90yQiUQRBEG/R4CXHJNplejrTzklcY9AJbNZlg1eUhc9SlaZSJiJJ8BGxOEmSpm2naXrfhNf3/Ve/+/GLUBqEIQpjeqRCJIyxcRwvm/CqsnyjKooFkOe5c65pmvP53DTtMAzjJry+674cHJiDgPiEHMNjQAg22u12bdtC2xZzWZYRT6VSWZZ1XQcXbn3h5/oe3MNWceecr0fGZRxFlB4FF0FAoygikBIEu8M+Lwoo7J/BK4qCiVRrLaWMOUfOZ7dyu39GkLz0/D10JFzLEDXy5pxLqfAYY2Qi8U9RljD/OT+vrutve/22J3HMjMlSbWxmzYoM4a/1Sp1OJ/T8c+c8TPyMShoypRTs5blFTWYxWgi+PgDa57LB7Ad0d/AZi8GGDn8s/Zvzn3XP00ZodV2liYBLjpMFlSrNrdWphqjHJi/hTdN1WRZa3JjMpEq44Fqb9/dpXpZ5xrCFlfl2nfLzZIs6MwaGrbXg7PtuGIfrtHp+dUO8U9OMvSO6I6Eg/gFn08fZWLH3fWKMjmOOHcGBONz/8OB7me+mnYQyKS7m2mCJVfN9/iC8XGDt9gweZuFONTdbNae6wiWrygoT9wfmB+4v8BtPUbtev59vdwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Karabiner Settings 1&quot;
-        title=&quot;&quot;
-        src=&quot;/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-a10fe.png&quot;
-        srcset=&quot;/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-fbc31.png 175w,
-/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-c0587.png 350w,
-/static/karabiner1-a9f4070e5023a598c01cc5a7303cd1aa-a10fe.png 578w&quot;
+        title=&quot;Karabiner Settings 1&quot;
+        src=&quot;/static/a9f4070e5023a598c01cc5a7303cd1aa/508ef/karabiner1.png&quot;
+        srcset=&quot;/static/a9f4070e5023a598c01cc5a7303cd1aa/4edbd/karabiner1.png 175w,
+/static/a9f4070e5023a598c01cc5a7303cd1aa/13ae7/karabiner1.png 350w,
+/static/a9f4070e5023a598c01cc5a7303cd1aa/508ef/karabiner1.png 578w&quot;
         sizes=&quot;(max-width: 578px) 100vw, 578px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 575px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-9e649.png&quot;
+    href=&quot;/static/1fc4f8482453033a9fda0cfd494ea16f/59415/karabiner2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 575px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 26.782608695652176%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAIAAADKYVtkAAAACXBIWXMAAAsSAAALEgHS3X78AAAAsklEQVQY022P2w7CIBBE+/8fqEmrRaVQdrm1VRJtsTr4UhM9IWSBmR22YmYpu/NFxhhTSrdCenwxz/Pjfk8/QFc9P4hWNM2hruv9bn84trrv2VpmLGaiOAyvH9Z1rZac6bZS0RERGzJa98agJoUexijVYV+WBerNuZmvL+eDOLWd0vBgCudcB6QCyBdCTNP1X3Jp+XQeeheCh9laZ3Hw5YpgdR7JIQT8aBhHjFDevM85vwEV6Rnb/Nj6RAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 26.857142857142858%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAIAAADKYVtkAAAACXBIWXMAAAsSAAALEgHS3X78AAAAsklEQVQY022P2w7CIBBE+/8fqEmrRaVQdrm1VRJtsTr4UhM9IWSBmR22YmYpu/NFxhhTSrdCenwxz/Pjfk8/QFc9P4hWNM2hruv9bn84trrv2VpmLGaiOAyvH9Z1rZac6bZS0RERGzJa98agJoUexijVYV+WBerNuZmvL+eDOLWd0vBgCudcB6QCyBdCTNP1X3Jp+XQeeheCh9laZ3Hw5YpgdR7JIQT8aBhHjFDevM85vwEV6Rnb/Nj6RAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;Karabiner Settings 2&quot;
-        title=&quot;&quot;
-        src=&quot;/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-9e649.png&quot;
-        srcset=&quot;/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-86b39.png 175w,
-/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-3fa7f.png 350w,
-/static/karabiner2-1fc4f8482453033a9fda0cfd494ea16f-9e649.png 575w&quot;
+        title=&quot;Karabiner Settings 2&quot;
+        src=&quot;/static/1fc4f8482453033a9fda0cfd494ea16f/59415/karabiner2.png&quot;
+        srcset=&quot;/static/1fc4f8482453033a9fda0cfd494ea16f/4edbd/karabiner2.png 175w,
+/static/1fc4f8482453033a9fda0cfd494ea16f/13ae7/karabiner2.png 350w,
+/static/1fc4f8482453033a9fda0cfd494ea16f/59415/karabiner2.png 575w&quot;
         sizes=&quot;(max-width: 575px) 100vw, 575px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;This gives you:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Windows style &lt;strong&gt;hotkeys with Ctrl&lt;/strong&gt; instead of Cmd&lt;/li&gt;
@@ -407,81 +371,73 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
 &lt;h2&gt;HyperSwitch&lt;/h2&gt;
 &lt;p&gt;Link: &lt;a href=&quot;https://bahoom.com/hyperswitch&quot;&gt;https://bahoom.com/hyperswitch&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Mac “Alt+Tab” behavior switches you between apps, and all windows of that app. So, for example, you can’t quickly switch to just one Finder window without bringing out 50 other ones that are open. This app switcher alternative fixes that and allows switching between individual windows. Install it and map the key to Cmd+Tab, replacing the Mac default.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 700px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-fec3d.png&quot;
+    href=&quot;/static/8ffb5b21ca28a074768ee082cd81947c/bed7a/hyperswitch1.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 28.25330549756437%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAIAAABM9SnKAAAACXBIWXMAAAsSAAALEgHS3X78AAABeUlEQVQY0wFuAZH+AD5xqzhuqjBrqCJhoiZkpThxr0J4tUN6t0N8ukR/v0uDwk+Jx1KMy1qRzlyU0V6W0mSa1Gic1G+f1m+g1gBKhcY9f8g6e8A/gcU+hstGis5JkNZQldtRltpVmdxand5kouBvqeNuquV6sed+tel9tOiPvfGNu+6EteQArMnnyLyptM7kssjS0M27gKS+TV5tU2NvWZnTSGFtZpzOud77yeDt0eX5tNjv0+Xwt9n6jqqgt9jeo8/5AJXB7aS+v5vH7Im3zJ68t3qfvlBidVdre3Cn2Vx7lHmt27PZ+7bP6NDm+7jT7srX5sze+Jyzq8Pb4Lzc+gA7gMA4hMo/hsRKjslWlM1onM56q9yHt+SIuOOKwvCYxOqix+iwz+y20ezC2O7K3e7M4O/R5/3O5vjM5vEAOninQH2rToWxXY61Z5W4bpu8eqPChazIj7XOm7zSq8bZts/dw9Tezd3l0ePq1Oft2Ovv2u3u3e/u4fDtVczvvPTxGXMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 27.999999999999996%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAIAAABM9SnKAAAACXBIWXMAAAsSAAALEgHS3X78AAABeUlEQVQY0wFuAZH+AD5xqzhuqjBrqCJhoiZkpThxr0J4tUN6t0N8ukR/v0uDwk+Jx1KMy1qRzlyU0V6W0mSa1Gic1G+f1m+g1gBKhcY9f8g6e8A/gcU+hstGis5KkNZQldtRltpVmdxand5kouBvqeNuquV6sed+tel9tOiPvfGNu+6EteQArMnnyLyptM7kssjS0M27gKS+TV5tU2NvWZnTSGFtZpzOud77yeDt0eX5tNjv0+Xwt9n6jqqgt9jeo8/5AJXB7aS+v5vH7Im3zJ68t3qfvlBidVdre3Cn2Vx7lHmt27PZ+7bP6NDm+7jT78rX5sze+Jyzq8Pb4Lzc+gA7gMA4hMo/hsRKjslWlM1onM56q9yHt+SIuOOKwvCYxOqix+iwz+y20ezC2O7K3e7M4O/R5/3O5vjM5vEAOninQH2rToWxXY61Z5W4bpu8eqPChazIj7XOm7zSq8bZts/dw9Tezd3l0ePq1Oft2Ovv2u3u3e/u4fDtV3TvvjLMQO8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;HyperSwitch Screenshot&quot;
-        title=&quot;&quot;
-        src=&quot;/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-55803.png&quot;
-        srcset=&quot;/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-551ed.png 175w,
-/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-1aa07.png 350w,
-/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-55803.png 700w,
-/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-eb36e.png 1050w,
-/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-40610.png 1400w,
-/static/hyperswitch1-8ffb5b21ca28a074768ee082cd81947c-fec3d.png 1437w&quot;
+        title=&quot;HyperSwitch Screenshot&quot;
+        src=&quot;/static/8ffb5b21ca28a074768ee082cd81947c/8c557/hyperswitch1.png&quot;
+        srcset=&quot;/static/8ffb5b21ca28a074768ee082cd81947c/4edbd/hyperswitch1.png 175w,
+/static/8ffb5b21ca28a074768ee082cd81947c/13ae7/hyperswitch1.png 350w,
+/static/8ffb5b21ca28a074768ee082cd81947c/8c557/hyperswitch1.png 700w,
+/static/8ffb5b21ca28a074768ee082cd81947c/e996b/hyperswitch1.png 1050w,
+/static/8ffb5b21ca28a074768ee082cd81947c/2cefc/hyperswitch1.png 1400w,
+/static/8ffb5b21ca28a074768ee082cd81947c/bed7a/hyperswitch1.png 1437w&quot;
         sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;For reference, here’s a screenshot of the settings I use.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 689px; &quot;
+    &gt;
+      &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-dc962.png&quot;
+    href=&quot;/static/ef0a1ca79d5932b5b45298ee3aa42a95/0f79a/hyperswitch2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 689px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
     &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 81.56748911465893%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAsSAAALEgHS3X78AAAC30lEQVQ4y51Ty07bQBRFYtFW/ITZtEtYw4a/aKX2B1izaegv9AtQVSpRJFbdoFSlOO+EAHGc2CEkfsX22IlJG/JoIF4Q5vbOFNyqSlnU0tGNM7pnzrnnem4On8LWzsLp7ttFUfwiZJJZwSt/FUa1A+FYjAsf3u8IOx8+CtvvtoW93T3h4POBkM/mhUwqI6STaY58Jr+YElMLc/ePnMquB00ZXKd1TVwSlhvt8KgehHXNDtVKNVSVWlg/q4dVuRpaphW6jhs6tsMr4iroBFA6La1HhOlc9vX4egIOaVPXa8Onkx5spUcgNQOwLR1aLRsuLi7AsizodDrgez60223+n+d5dDKZQDqdjkWEopiIDfs9qGrk5lhSqVo+pop0QpWKTGVZpmVJomdndYqE1DAMappmVB3HuRkOhyCK4m/CZDIZ6/f74BF3arcsqhsm6KYJpmmB67qATWDbNiptAZ7z3/fveDYdjUaQSCQ2I0J8iQ0HA2g2temJJFOlWoVqpQI1tQaKooKua0CQ2LYdMFqEEzHcXTaDEBUOBn2wHDItKgazyAmbzSYYuvFLISozLBdSahfOz8/xEh18359NyC2jQsexp4auU0VRQFUVaLBGTeP2DBxB2yfQQTiOC0HQYYE8YBkH22g0phIGgEFwuyxFXAs+y973LhikCxUNE/ZcTsosI2YrHKBC0zCmmqZRZhUT5HNi1gghcNn7BrrbBanhg0+ciPDfljFll3hTVMNWAjiQjFnFS3j1kIipY0TEfUChiJYH/UtQdP8mXTi9LeSyNJfN06NCgRaPijSbzdF6vU4JLjEqo0gSYeYe4pZvjsdjtv1UxUBwjlAuyyCVSgiJpx0EAf9K/sb9l5JKpd5EhPF4fANndovWfqDVqz+BM4zqLLAeNuv9/f2NiHB5efnp2tra85WVlVeIl3eVY3V1NaqzwM6w98XS0tIzTlYsFlmZRzxCPP4PPLnrnT88PJz7Ce8nb42nBr3XAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 81.71428571428572%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAsSAAALEgHS3X78AAAC30lEQVQ4y51Ty07bQBRFYtFW/ITZtEtYw4a/aKX2B1izaegv9AtQVSpRJFbdoFSlOO+EAHGc2CEkfsX22IlJG/JoIF4Q5vbOFNyqSlnU0tGNM7pnzrnnem4On8LWzsLp7ttFUfwiZJJZwSt/FUa1A+FYjAsf3u8IOx8+CtvvtoW93T3h4POBkM/mhUwqI6STaY58Jr+YElMLc/ePnMquB00ZXKd1TVwSlhvt8KgehHXNDtVKNVSVWlg/q4dVuRpaphW6jhs6tsMr4iroBFA6La1HhOlc9vX4egIOaVPXa8Onkx5spUcgNQOwLR1aLRsuLi7AsizodDrgez60223+n+d5dDKZQDqdjkWEopiIDfs9qGrk5lhSqVo+pop0QpWKTGVZpmVJomdndYqE1DAMappmVB3HuRkOhyCK4m/CZDIZ6/f74BF3arcsqhsm6KYJpmmB67qATWDbNiptAZ7z3/fveDYdjUaQSCQ2I0J8iQ0HA2g2temJJFOlWoVqpQI1tQaKooKua0CQ2LYdMFqEEzHcXTaDEBUOBn2wHDItKgazyAmbzSYYuvFLISozLBdSahfOz8/xEh18359NyC2jQsexp4auU0VRQFUVaLBGTeP2DBxB2yfQQTiOC0HQYYE8YBkH22g0phIGgEFwuyxFXAs+y973LhikCxUNE/ZcTsosI2YrHKBC0zCmmqZRZhUT5HNi1gghcNn7BrrbBanhg0+ciPDfljFll3hTVMNWAjiQjFnFS3j1kIipY0TEfUChiJYH/UtQdP8mXTi9LeSyNJfN06NCgRaPijSbzdF6vU4JLjEqo0gSYeYe4pZvjsdjtv1UxUBwjlAuyyCVSgiJpx0EAf9K/sb9l5JKpd5EhPF4fANndovWfqDVqz+BM4zqLLAeNuv9/f2NiHB5efnp2tra85WVlVeIl3eVY3V1NaqzwM6w98XS0tIzTlYsFlmZRzxCPP4PPLnrnT88PJz7Ce8nb42nBr3XAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;HyperSwitch Settings&quot;
-        title=&quot;&quot;
-        src=&quot;/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-dc962.png&quot;
-        srcset=&quot;/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-8d2b6.png 175w,
-/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-e399e.png 350w,
-/static/hyperswitch2-ef0a1ca79d5932b5b45298ee3aa42a95-dc962.png 689w&quot;
+        title=&quot;HyperSwitch Settings&quot;
+        src=&quot;/static/ef0a1ca79d5932b5b45298ee3aa42a95/0f79a/hyperswitch2.png&quot;
+        srcset=&quot;/static/ef0a1ca79d5932b5b45298ee3aa42a95/4edbd/hyperswitch2.png 175w,
+/static/ef0a1ca79d5932b5b45298ee3aa42a95/13ae7/hyperswitch2.png 350w,
+/static/ef0a1ca79d5932b5b45298ee3aa42a95/0f79a/hyperswitch2.png 689w&quot;
         sizes=&quot;(max-width: 689px) 100vw, 689px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
   &lt;/a&gt;
-    &lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;h2&gt;XtraFinder&lt;/h2&gt;
 &lt;p&gt;Link: &lt;a href=&quot;https://www.trankynam.com/xtrafinder/&quot;&gt;https://www.trankynam.com/xtrafinder/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;As a bonus, here’s a plugin for your Finder that will give it superpowers! There’s tons of features here to play with, but the most important one in this context is the ability to “Arrange folders on top”! Hooray!&lt;/p&gt;
 &lt;p&gt;And that’s it with my setup. This is in no way perfect, and I’m sure there are other ways to do it and other apps to add. But so far it’s been working pretty well, and definitely makes using my Mac a whole lot more enjoyable.&lt;/p&gt;
-&lt;p&gt;I hope you find this useful too!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CUDA Path Tracer]]></title><description><![CDATA[My last school project, ever! (Hopefully!) GitHub:  https://github.com/nopjia/tracer Video:  http://www.youtube.com/watch?v=mbpqxlJHaBE This…]]></description><link>https://www.iamnop.com//posts/2013-07-25-cuda-path-tracer</link><guid isPermaLink="false">https://www.iamnop.com//posts/2013-07-25-cuda-path-tracer</guid><pubDate>Thu, 25 Jul 2013 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;My last school project, ever! (Hopefully!)&lt;/p&gt;
+&lt;p&gt;I hope you find this useful too!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CUDA Path Tracer]]></title><description><![CDATA[My last school project, ever! (Hopefully!) CUDA Path Tracer GitHub: https://github.com/nopjia/tracer Video: http://www.youtube.com/watch?v…]]></description><link>https://www.iamnop.com/posts/2013-07-25-cuda-path-tracer</link><guid isPermaLink="false">https://www.iamnop.com/posts/2013-07-25-cuda-path-tracer</guid><pubDate>Thu, 25 Jul 2013 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;My last school project, ever! (Hopefully!)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/portfolio/cudatracer_1.jpg&quot; alt=&quot;CUDA Path Tracer&quot;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;GitHub: &lt;a href=&quot;https://github.com/nopjia/tracer&quot;&gt;https://github.com/nopjia/tracer&lt;/a&gt;&lt;/li&gt;
@@ -494,7 +450,7 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
 &lt;li&gt;Interactive real-time path tracer in CUDA&lt;/li&gt;
 &lt;li&gt;Advanced Rendering Seminar&lt;/li&gt;
 &lt;li&gt;University of Pennsylvania, Spring 2013&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[WebTube]]></title><description><![CDATA[Here is a long overdue post that I finally got around to write now that school is over! Over the weekend of January 18-20th, I attended the…]]></description><link>https://www.iamnop.com//posts/2013-05-16-webtube</link><guid isPermaLink="false">https://www.iamnop.com//posts/2013-05-16-webtube</guid><pubDate>Thu, 16 May 2013 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Here is a long overdue post that I finally got around to write now that school is over! Over the weekend of January 18-20th, I attended the &lt;a href=&quot;http://2013s.pennapps.com&quot;&gt;Spring 2013 PennApps Hackathon&lt;/a&gt;, the largest student-run hackathon on the east coast, organized by no other than the University of Pennsylvania. Since this was to be my last PennApps Hackathon (this being my 5th time), I decided to have fun over the weekend, hang out with people, and do something fun.&lt;/p&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[WebTube]]></title><description><![CDATA[Here is a long overdue post that I finally got around to write now that school is over! Over the weekend of January 18-20th, I attended the…]]></description><link>https://www.iamnop.com/posts/2013-05-16-webtube</link><guid isPermaLink="false">https://www.iamnop.com/posts/2013-05-16-webtube</guid><pubDate>Thu, 16 May 2013 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Here is a long overdue post that I finally got around to write now that school is over! Over the weekend of January 18-20th, I attended the &lt;a href=&quot;http://2013s.pennapps.com&quot;&gt;Spring 2013 PennApps Hackathon&lt;/a&gt;, the largest student-run hackathon on the east coast, organized by no other than the University of Pennsylvania. Since this was to be my last PennApps Hackathon (this being my 5th time), I decided to have fun over the weekend, hang out with people, and do something fun.&lt;/p&gt;
 &lt;p&gt;I made WebTube, a fun little web app that lets you browse the internet through the comfort of an old-school CRT TV.&lt;/p&gt;
 &lt;p&gt;The reception turned out much better than I had expected. I came into the hackathon only to have some fun and not expecting anything. In the end, WebTube won 3rd place overall and Audience Choice Award!&lt;/p&gt;
 &lt;ul&gt;
@@ -511,7 +467,7 @@ Please reach out to me directly for any inquiries!&lt;/p&gt;
 &lt;li&gt;&lt;a href=&quot;http://html.adobe.com/webplatform/graphics/customfilters/cssfilterlab/&quot;&gt;http://html.adobe.com/webplatform/graphics/customfilters/cssfilterlab/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://alteredqualia.com/css-shaders/article/&quot;&gt;http://alteredqualia.com/css-shaders/article/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/index.html#shading-language&quot;&gt;https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/index.html#shading-language&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[WebGL Volumetric Renderer]]></title><description><![CDATA[Live code:  https://www.iamnop.com/WebGL-Volumetric/ Video:  http://www.youtube.com/watch?v=VPhnwOpmUqY GitHub:  https://github.com/nopjia…]]></description><link>https://www.iamnop.com//posts/2012-09-20-webgl-volumetric-renderer</link><guid isPermaLink="false">https://www.iamnop.com//posts/2012-09-20-webgl-volumetric-renderer</guid><pubDate>Thu, 20 Sep 2012 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/portfolio/volumetric.png&quot; alt=&quot;WebGL Volumetric Renderer&quot;&gt;&lt;/p&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[WebGL Volumetric Renderer]]></title><description><![CDATA[WebGL Volumetric Renderer Live code: https://www.iamnop.com/WebGL-Volumetric/ Video: http://www.youtube.com/watch?v=VPhnwOpmUqY GitHub…]]></description><link>https://www.iamnop.com/posts/2012-09-20-webgl-volumetric-renderer</link><guid isPermaLink="false">https://www.iamnop.com/posts/2012-09-20-webgl-volumetric-renderer</guid><pubDate>Thu, 20 Sep 2012 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/portfolio/volumetric.png&quot; alt=&quot;WebGL Volumetric Renderer&quot;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Live code: &lt;a href=&quot;https://www.iamnop.com/WebGL-Volumetric/&quot;&gt;https://www.iamnop.com/WebGL-Volumetric/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Video: &lt;a href=&quot;http://www.youtube.com/watch?v=VPhnwOpmUqY&quot;&gt;http://www.youtube.com/watch?v=VPhnwOpmUqY&lt;/a&gt;&lt;/li&gt;
