@@ -1,4 +1,73 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nop Jiarathanakul]]></title><description><![CDATA[Nop Jiarathanakul online portfolio. I love making things, especially beautiful 3D applications. I like WebGL, shaders, three.js, typography, and indie rock. My background is in computer graphics, games, and animation.]]></description><link>https://www.iamnop.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 12 Sep 2020 04:11:55 GMT</lastBuildDate><item><title><![CDATA[New Website!]]></title><description><![CDATA[This post marks the launch of a new long overdue website!  I released my current website at https://www.iamnop.com/ a long time ago, but it…]]></description><link>https://www.iamnop.com/posts/2018-08-30-new-website</link><guid isPermaLink="false">https://www.iamnop.com/posts/2018-08-30-new-website</guid><pubDate>Thu, 30 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This post marks the launch of a new long overdue website!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Nop Jiarathanakul]]></title><description><![CDATA[Nop Jiarathanakul online portfolio. I love making things, especially beautiful 3D applications. I like WebGL, shaders, three.js, typography, and indie rock. My background is in computer graphics, games, and animation.]]></description><link>https://www.iamnop.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 24 Sep 2020 07:36:06 GMT</lastBuildDate><item><title><![CDATA[Hades]]></title><description><![CDATA[The latest game from my favoritest studio, Hades, is a refined culmination of Supergiant Games’ craft: impeccable stunning artwork (Jen Zee…]]></description><link>https://www.iamnop.com/posts/2020-09-24-hades</link><guid isPermaLink="false">https://www.iamnop.com/posts/2020-09-24-hades</guid><pubDate>Thu, 24 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 700px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f565075f408fe980f6f9fdb65ffb0334/eea4a/hades_by_jenzee.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 136%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAwL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAP/2gAMAwEAAhADEAAAAYnNRkyAaC7zVMyE/8QAHBAAAgICAwAAAAAAAAAAAAAAAQIAAxMxEiFB/9oACAEBAAEFAq7saLcyw7VeRbGGOweoTFns/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8BKf/EABYRAAMAAAAAAAAAAAAAAAAAAAISIP/aAAgBAgEBPwFBj//EABwQAAICAgMAAAAAAAAAAAAAAAEQACECERJhcf/aAAgBAQAGPwLUO7fGz3CqyCPj/8QAHBAAAgIDAQEAAAAAAAAAAAAAAAERITFBUWGB/9oACAEBAAE/IVVrbyL5ftmQVZwhGoUL0a2JOgaVSPUWCpqepGwz/9oADAMBAAIAAwAAABBMz7H/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EBeMsYsv/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQARMRD/2gAIAQIBAT8QWuzdhkTn/8QAHxABAAMAAgIDAQAAAAAAAAAAAQARITFBUXFhgbHB/9oACAEBAAE/EEoTe+Gc1LuGpVGPe/yFdE1v3crje/P55d4hpBPBnhKhJ0qypQRQZYcy+CFsxfs6gKV11larwb3ccq8E6ep//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Hades&quot;
+        title=&quot;Hades&quot;
+        src=&quot;/static/f565075f408fe980f6f9fdb65ffb0334/29d31/hades_by_jenzee.jpg&quot;
+        srcset=&quot;/static/f565075f408fe980f6f9fdb65ffb0334/e52aa/hades_by_jenzee.jpg 175w,
+/static/f565075f408fe980f6f9fdb65ffb0334/70ebb/hades_by_jenzee.jpg 350w,
+/static/f565075f408fe980f6f9fdb65ffb0334/29d31/hades_by_jenzee.jpg 700w,
+/static/f565075f408fe980f6f9fdb65ffb0334/9ecec/hades_by_jenzee.jpg 1050w,
+/static/f565075f408fe980f6f9fdb65ffb0334/eea4a/hades_by_jenzee.jpg 1280w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The latest game from my favoritest studio, &lt;a href=&quot;https://www.supergiantgames.com/games/hades/&quot;&gt;Hades&lt;/a&gt;, is a refined culmination of &lt;a href=&quot;https://www.supergiantgames.com/&quot;&gt;Supergiant Games&lt;/a&gt;’ craft: impeccable stunning artwork (Jen Zee 😍), epic cinematic soundtrack (Darren Korb 😌), tight crispy combat, tough-as-nails gameplay, lovingly crafted characters, and finally a wonderful touching story at the center.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Supergiant&lt;/em&gt;’s previous titles all tell of a memorable touching story. With such a precious piece of artwork, for me, is something to be played once, experienced once, something to commit as a beautiful memory, not to be replayed.&lt;/p&gt;
+&lt;p&gt;However, at the core, what sets &lt;em&gt;Hades&lt;/em&gt; apart is its &lt;em&gt;replayability&lt;/em&gt;. It is here that the devs did something novel. They created a roguelike game, intentially repetitive in nature. However, unlike the usual formula, instead of using mechanics as the reward (like unlockable items or skills), &lt;em&gt;Hades&lt;/em&gt; instead uses &lt;em&gt;story as the reward&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;hades_screenshot.png&quot; alt=&quot;Screenshot&quot;&gt;&lt;/p&gt;
+&lt;p&gt;In this novel manner, they carry out their signature character-based story-telling. In this manner, they’ve created their most replayable game yet: they keep the player coming back, grinding, replaying the levels over and over again, just to get a little further, just to learn a little more about this character, who are they, what happened to them, and why are they here?&lt;/p&gt;
+&lt;p&gt;Moreover, they’ve ingeniously chosen the rich world of Greek mythology as the setting for this cyclical core mechanic: the main character, born of gods, is immortal, unable to die, and therefore forced to relive death over and over as the player fails to escape.&lt;/p&gt;
+&lt;p&gt;This is &lt;em&gt;Supergiant&lt;/em&gt;’s signature trademark: their ability to craft a &lt;em&gt;complete&lt;/em&gt; game. By that I mean, a game where no aspect is lacking, nor is any aspect shining brighter than the rest. Whether it is art, music, gameplay, or writing, they are each so strong on their own, but when woven together, becomes something so powerful, so immersive, so beautiful and memorable, a complete story.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 700px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/65da604d08311050fe20aa353f04b14c/8ec0a/hades_sunrise.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAT/2gAMAwEAAhADEAAAAY157jQ5iI//xAAaEAEBAAIDAAAAAAAAAAAAAAABAhESABMh/9oACAEBAAEFAoxqs8pnIuovXT7/AP/EABgRAAIDAAAAAAAAAAAAAAAAAAABAxNh/9oACAEDAQE/AVIWYf/EABcRAQADAAAAAAAAAAAAAAAAAAABAhL/2gAIAQIBAT8BmrL/xAAZEAACAwEAAAAAAAAAAAAAAAAAEAERMTL/2gAIAQEABj8Cww5hWv/EABkQAAMBAQEAAAAAAAAAAAAAAAABESEQUf/aAAgBAQABPyHzSBZ46k8YlB7YPZ//2gAMAwEAAgADAAAAEFTv/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQARITH/2gAIAQMBAT8QzSo1eJ//xAAXEQEAAwAAAAAAAAAAAAAAAAAAEUFx/9oACAECAQE/ELJaf//EABoQAQEBAAMBAAAAAAAAAAAAAAERADFBYYH/2gAIAQEAAT8QbCOHc3IuGsX6mElOMCaXryakUsOjf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Screenshot&quot;
+        title=&quot;Screenshot&quot;
+        src=&quot;/static/65da604d08311050fe20aa353f04b14c/29d31/hades_sunrise.jpg&quot;
+        srcset=&quot;/static/65da604d08311050fe20aa353f04b14c/e52aa/hades_sunrise.jpg 175w,
+/static/65da604d08311050fe20aa353f04b14c/70ebb/hades_sunrise.jpg 350w,
+/static/65da604d08311050fe20aa353f04b14c/29d31/hades_sunrise.jpg 700w,
+/static/65da604d08311050fe20aa353f04b14c/9ecec/hades_sunrise.jpg 1050w,
+/static/65da604d08311050fe20aa353f04b14c/d165a/hades_sunrise.jpg 1400w,
+/static/65da604d08311050fe20aa353f04b14c/8ec0a/hades_sunrise.jpg 2560w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Website!]]></title><description><![CDATA[This post marks the launch of a new long overdue website!  I released my current website at https://www.iamnop.com/ a long time ago, but it…]]></description><link>https://www.iamnop.com/posts/2018-08-30-new-website</link><guid isPermaLink="false">https://www.iamnop.com/posts/2018-08-30-new-website</guid><pubDate>Thu, 30 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This post marks the launch of a new long overdue website!&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 700px; &quot;
